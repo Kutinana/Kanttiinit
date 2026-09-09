@@ -3,7 +3,10 @@ import { VitePWA } from 'vite-plugin-pwa';
 import solidPlugin from 'vite-plugin-solid';
 import pkg from './package.json';
 
+declare const process: { env: Record<string, string | undefined> };
+
 export default defineConfig({
+  base: process.env.BASE_URL || '/',
   publicDir: 'public',
   plugins: [
     solidPlugin(),
@@ -42,7 +45,7 @@ export default defineConfig({
   ],
   define: {
     VERSION: JSON.stringify(pkg.version),
-    PUBLIC_ASSET_PATH: JSON.stringify('/'),
+    PUBLIC_ASSET_PATH: JSON.stringify(process.env.BASE_URL || '/'),
     API_BASE: JSON.stringify('https://kitchen.kanttiinit.fi'),
   },
   server: {

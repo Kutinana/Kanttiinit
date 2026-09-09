@@ -53,7 +53,7 @@ render(
     <ErrorBoundary>
       <Global />
       <DarkModeEffect />
-      <Router>
+      <Router base={import.meta.env.BASE_URL}>
         <Route path="*" component={RootLayout}>
           <Route path="/map" component={MapView} />
           <Route path="*" component={App}>
