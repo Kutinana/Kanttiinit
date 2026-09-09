@@ -61,10 +61,18 @@ export function parseCourseTitle(rawTitle) {
   let category = '';
   let dish = rawTitle.trim();
 
-  const match = rawTitle.match(/^([^:：]+)[:：]\s*(.+)$/);
+  const match = rawTitle.match(/^([^:：]+?)[:：]\s+(.+)$/);
   if (match) {
-    category = match[1].trim();
-    dish = match[2].trim();
+    const candidate = match[1].trim();
+    if (
+      categoryTranslationsZh[candidate] ||
+      (!candidate.toLowerCase().startsWith('klo') &&
+        !candidate.toLowerCase().startsWith('huom') &&
+        !/^\d+[:.]\d+/.test(candidate))
+    ) {
+      category = candidate;
+      dish = match[2].trim();
+    }
   }
 
   let subTag = '';

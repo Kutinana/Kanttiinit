@@ -897,47 +897,6 @@
         ]
       }
     ],
-    "2026-09-17": [
-      {
-        "title": "Lentejas – luomu linssipata espanjalaisittain",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": "Meheviä suikaleita \"Butter\"-kastikeessa",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": "Seitania tulisessa kebabkastikkeessa bowl",
-        "properties": []
-      },
-      {
-        "title": "Kirjolohipyörykät, lime-kermaviili",
-        "properties": [
-          "G",
-          "L"
-        ]
-      },
-      {
-        "title": "Patonkibaari",
-        "properties": []
-      },
-      {
-        "title": "Vaalea riisi",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": "Banoffee",
-        "properties": [
-          "L"
-        ]
-      }
-    ],
     "2026-09-18": [
       {
         "title": "Korealainen gochujang-pastavuoka",
@@ -976,6 +935,47 @@
         "title": "Mangosuudelma",
         "properties": [
           "G",
+          "L"
+        ]
+      }
+    ],
+    "2026-09-17": [
+      {
+        "title": "Lentejas – luomu linssipata espanjalaisittain",
+        "properties": [
+          "G"
+        ]
+      },
+      {
+        "title": "Meheviä suikaleita \"Butter\"-kastikeessa",
+        "properties": [
+          "G"
+        ]
+      },
+      {
+        "title": "Seitania tulisessa kebabkastikkeessa bowl",
+        "properties": []
+      },
+      {
+        "title": "Kirjolohipyörykät, lime-kermaviili",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Patonkibaari",
+        "properties": []
+      },
+      {
+        "title": "Vaalea riisi",
+        "properties": [
+          "G"
+        ]
+      },
+      {
+        "title": "Banoffee",
+        "properties": [
           "L"
         ]
       }
@@ -1172,6 +1172,31 @@
         "properties": []
       }
     ],
+    "2026-09-10": [
+      {
+        "title": "Linssikeitto",
+        "properties": [
+          "G"
+        ]
+      },
+      {
+        "title": "Uuniperuna pähkinäisellä valkopapu-yrttitäytteellä",
+        "properties": [
+          "G"
+        ]
+      },
+      {
+        "title": "Uuniperuna kinkku-Aurajuustotäytteellä",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Salaattibaari",
+        "properties": []
+      }
+    ],
     "2026-09-11": [
       {
         "title": "Lehtikaalisosekeitto, vegaaninen",
@@ -1197,21 +1222,21 @@
         "properties": []
       }
     ],
-    "2026-09-10": [
+    "2026-09-14": [
       {
-        "title": "Linssikeitto",
+        "title": "Kasvisjauhiskeitto",
         "properties": [
           "G"
         ]
       },
       {
-        "title": "Uuniperuna pähkinäisellä valkopapu-yrttitäytteellä",
+        "title": "Uuniperuna tofuskagentäytteellä",
         "properties": [
           "G"
         ]
       },
       {
-        "title": "Uuniperuna kinkku-Aurajuustotäytteellä",
+        "title": "Uuniperuna salaattijuusto-kasvistäytteellä",
         "properties": [
           "G",
           "L"
@@ -1250,31 +1275,6 @@
     "2026-09-15": [
       {
         "title": "Härkisborssi",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": "Uuniperuna tofuskagentäytteellä",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": "Uuniperuna salaattijuusto-kasvistäytteellä",
-        "properties": [
-          "G",
-          "L"
-        ]
-      },
-      {
-        "title": "Salaattibaari",
-        "properties": []
-      }
-    ],
-    "2026-09-14": [
-      {
-        "title": "Kasvisjauhiskeitto",
         "properties": [
           "G"
         ]
@@ -1873,6 +1873,34 @@
         ]
       }
     ],
+    "2026-09-11": [
+      {
+        "title": "Ratatouille Aasiantofu -harissa",
+        "properties": [
+          "G"
+        ]
+      },
+      {
+        "title": "Pikkupyörykkästroganoff",
+        "properties": [
+          "G"
+        ]
+      },
+      {
+        "title": "Meksikolainen uunimakkara",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Mustikkarahka",
+        "properties": [
+          "G",
+          "L"
+        ]
+      }
+    ],
     "2026-09-10": [
       {
         "title": "Satokauden kaalilaatikkoa georgialaisittain ja puolukkasurvosta",
@@ -1900,34 +1928,6 @@
         "title": "Marjapannacotta",
         "properties": [
           "G"
-        ]
-      }
-    ],
-    "2026-09-11": [
-      {
-        "title": "Ratatouille Aasiantofu -harissa",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": "Pikkupyörykkästroganoff",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": "Meksikolainen uunimakkara",
-        "properties": [
-          "G",
-          "L"
-        ]
-      },
-      {
-        "title": "Mustikkarahka",
-        "properties": [
-          "G",
-          "L"
         ]
       }
     ],
@@ -2069,20 +2069,6 @@
     ]
   },
   "26": {
-    "2026-09-10": [
-      {
-        "title": "Makaronilaatikko ❤️L",
-        "properties": []
-      },
-      {
-        "title": "Kasvismakaronilaatikko ❤️ L",
-        "properties": []
-      },
-      {
-        "title": "MYÖS TAKE AWAY",
-        "properties": []
-      }
-    ],
     "2026-09-09": [
       {
         "title": "Lime-persilja kalaleike ❤️ M",
@@ -2090,6 +2076,20 @@
       },
       {
         "title": "Mexican kasvispihvi  V G",
+        "properties": []
+      },
+      {
+        "title": "MYÖS TAKE AWAY",
+        "properties": []
+      }
+    ],
+    "2026-09-10": [
+      {
+        "title": "Makaronilaatikko ❤️L",
+        "properties": []
+      },
+      {
+        "title": "Kasvismakaronilaatikko ❤️ L",
         "properties": []
       },
       {
@@ -2184,35 +2184,6 @@
   },
   "27": {},
   "32": {
-    "2026-09-09": [
-      {
-        "title": "Chili con Härkis",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": "Aasialaisia papupyöryköitä & ananasrelissiä",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": "Broileria Satay",
-        "properties": [
-          "G",
-          "L"
-        ]
-      },
-      {
-        "title": "Tumma riisi",
-        "properties": []
-      },
-      {
-        "title": " Punaherukkavispipuuro",
-        "properties": []
-      }
-    ],
     "2026-09-10": [
       {
         "title": "Nyhtökaura-perunagnoccivuoka ",
@@ -2279,6 +2250,125 @@
         ]
       }
     ],
+    "2026-09-09": [
+      {
+        "title": "Chili con Härkis",
+        "properties": [
+          "G"
+        ]
+      },
+      {
+        "title": "Aasialaisia papupyöryköitä & ananasrelissiä",
+        "properties": [
+          "G"
+        ]
+      },
+      {
+        "title": "Broileria Satay",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Tumma riisi",
+        "properties": []
+      },
+      {
+        "title": " Punaherukkavispipuuro",
+        "properties": []
+      }
+    ],
+    "2026-09-15": [
+      {
+        "title": "Kvinoapyöryköitä ja valkosipuli-seesamdippiä",
+        "properties": [
+          "G"
+        ]
+      },
+      {
+        "title": " Härkäpapu Red Curry",
+        "properties": [
+          "G"
+        ]
+      },
+      {
+        "title": " Rapea kalaleike, yrttikermaviiliä",
+        "properties": []
+      },
+      {
+        "title": "Gluteenitonta kauraa",
+        "properties": [
+          "G"
+        ]
+      },
+      {
+        "title": "Voisilmäpulla",
+        "properties": []
+      }
+    ],
+    "2026-09-18": [
+      {
+        "title": "Savutofucarbonara",
+        "properties": [
+          "G"
+        ]
+      },
+      {
+        "title": "Kanabolognese",
+        "properties": [
+          "G",
+          "M"
+        ]
+      },
+      {
+        "title": "Täysjyväpennepastaa",
+        "properties": []
+      },
+      {
+        "title": "Gluteenitonta kauraa",
+        "properties": [
+          "G"
+        ]
+      },
+      {
+        "title": "Hedelmäsalaatti",
+        "properties": [
+          "G"
+        ]
+      }
+    ],
+    "2026-09-16": [
+      {
+        "title": "Luomutofua pestokastikkeessa",
+        "properties": [
+          "G"
+        ]
+      },
+      {
+        "title": "Unlimited pippuripihvejä",
+        "properties": [
+          "G"
+        ]
+      },
+      {
+        "title": "Paholaisen kanankoipi",
+        "properties": [
+          "G",
+          "M"
+        ]
+      },
+      {
+        "title": "Täysjyväriisi",
+        "properties": [
+          "G"
+        ]
+      },
+      {
+        "title": " Pappilan hätävara",
+        "properties": []
+      }
+    ],
     "2026-09-14": [
       {
         "title": "Tofua ja pinaattia Palak paneer",
@@ -2329,96 +2419,6 @@
           "G",
           "L"
         ]
-      }
-    ],
-    "2026-09-18": [
-      {
-        "title": "Savutofucarbonara",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": "Kanabolognese",
-        "properties": [
-          "G",
-          "M"
-        ]
-      },
-      {
-        "title": "Täysjyväpennepastaa",
-        "properties": []
-      },
-      {
-        "title": "Gluteenitonta kauraa",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": "Hedelmäsalaatti",
-        "properties": [
-          "G"
-        ]
-      }
-    ],
-    "2026-09-15": [
-      {
-        "title": "Kvinoapyöryköitä ja valkosipuli-seesamdippiä",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": " Härkäpapu Red Curry",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": " Rapea kalaleike, yrttikermaviiliä",
-        "properties": []
-      },
-      {
-        "title": "Gluteenitonta kauraa",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": "Voisilmäpulla",
-        "properties": []
-      }
-    ],
-    "2026-09-16": [
-      {
-        "title": "Luomutofua pestokastikkeessa",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": "Unlimited pippuripihvejä",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": "Paholaisen kanankoipi",
-        "properties": [
-          "G",
-          "M"
-        ]
-      },
-      {
-        "title": "Täysjyväriisi",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": " Pappilan hätävara",
-        "properties": []
       }
     ]
   },
@@ -2635,6 +2635,50 @@
         ]
       }
     ],
+    "2026-09-10": [
+      {
+        "title": "Härkis-punasipuli-BBQ -pizza",
+        "properties": []
+      },
+      {
+        "title": "Kirsikkatomaatti-mozzarella-pestopizza",
+        "properties": [
+          "L"
+        ]
+      },
+      {
+        "title": "Pizza Kinkku-ananas",
+        "properties": [
+          "L"
+        ]
+      },
+      {
+        "title": "Välimeren kasvispihvejä & Chermoulakastiketta",
+        "properties": []
+      },
+      {
+        "title": "Panang curry",
+        "properties": [
+          "G"
+        ]
+      },
+      {
+        "title": "Rapeita kalafileepaloja ja valkosipuli-chiliseesamikastiketta",
+        "properties": [
+          "M"
+        ]
+      },
+      {
+        "title": "Sticky BBQ Beanit Bowl",
+        "properties": [
+          "G"
+        ]
+      },
+      {
+        "title": "Suklaa-pähkinämousse",
+        "properties": []
+      }
+    ],
     "2026-09-12": [
       {
         "title": "Kaalikääryleitä & lämmintä seesamkastiketta",
@@ -2685,50 +2729,6 @@
           "G",
           "L"
         ]
-      }
-    ],
-    "2026-09-10": [
-      {
-        "title": "Härkis-punasipuli-BBQ -pizza",
-        "properties": []
-      },
-      {
-        "title": "Kirsikkatomaatti-mozzarella-pestopizza",
-        "properties": [
-          "L"
-        ]
-      },
-      {
-        "title": "Pizza Kinkku-ananas",
-        "properties": [
-          "L"
-        ]
-      },
-      {
-        "title": "Välimeren kasvispihvejä & Chermoulakastiketta",
-        "properties": []
-      },
-      {
-        "title": "Panang curry",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": "Rapeita kalafileepaloja ja valkosipuli-chiliseesamikastiketta",
-        "properties": [
-          "M"
-        ]
-      },
-      {
-        "title": "Sticky BBQ Beanit Bowl",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": "Suklaa-pähkinämousse",
-        "properties": []
       }
     ],
     "2026-09-09": [
@@ -3039,6 +3039,36 @@
     ]
   },
   "41": {
+    "2026-09-11": [
+      {
+        "title": "Maukkaan hampparipäivä kasvispihveillä",
+        "properties": []
+      },
+      {
+        "title": "Maukkaan hampparipäivä lihapihveilllä",
+        "properties": []
+      },
+      {
+        "title": "Bataattisosekeittoa",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Tonnikalasalaatti",
+        "properties": [
+          "G",
+          "M"
+        ]
+      },
+      {
+        "title": "Korvapuusti-banaanikakkua",
+        "properties": [
+          "L"
+        ]
+      }
+    ],
     "2026-09-09": [
       {
         "title": "Pankopaneroitua luomutofua ja sweet chili -majoneesia",
@@ -3074,36 +3104,6 @@
         "properties": [
           "G",
           "M"
-        ]
-      }
-    ],
-    "2026-09-11": [
-      {
-        "title": "Maukkaan hampparipäivä kasvispihveillä",
-        "properties": []
-      },
-      {
-        "title": "Maukkaan hampparipäivä lihapihveilllä",
-        "properties": []
-      },
-      {
-        "title": "Bataattisosekeittoa",
-        "properties": [
-          "G",
-          "L"
-        ]
-      },
-      {
-        "title": "Tonnikalasalaatti",
-        "properties": [
-          "G",
-          "M"
-        ]
-      },
-      {
-        "title": "Korvapuusti-banaanikakkua",
-        "properties": [
-          "L"
         ]
       }
     ],
@@ -6480,36 +6480,6 @@
         ]
       }
     ],
-    "2026-09-15": [
-      {
-        "title": "Kanaton leike & ranskalaisia",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": "Marry Me -kanaton keitto ",
-        "properties": []
-      },
-      {
-        "title": "Maggara-harissapata",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": "Nyhtökaura-salsa Bowl",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": "Keitetty peruna",
-        "properties": [
-          "G"
-        ]
-      }
-    ],
     "2026-09-16": [
       {
         "title": "Hampurilainen Beyondpihvillä & ranskalaiset",
@@ -6529,6 +6499,36 @@
       },
       {
         "title": "Fermentoitu tarhapapu Bowl",
+        "properties": [
+          "G"
+        ]
+      },
+      {
+        "title": "Keitetty peruna",
+        "properties": [
+          "G"
+        ]
+      }
+    ],
+    "2026-09-15": [
+      {
+        "title": "Kanaton leike & ranskalaisia",
+        "properties": [
+          "G"
+        ]
+      },
+      {
+        "title": "Marry Me -kanaton keitto ",
+        "properties": []
+      },
+      {
+        "title": "Maggara-harissapata",
+        "properties": [
+          "G"
+        ]
+      },
+      {
+        "title": "Nyhtökaura-salsa Bowl",
         "properties": [
           "G"
         ]
@@ -6686,88 +6686,6 @@
     ]
   },
   "72": {
-    "2026-09-11": [
-      {
-        "title": "Seitan bolognese",
-        "properties": []
-      },
-      {
-        "title": "Carbonara-kastiketta",
-        "properties": [
-          "G",
-          "L"
-        ]
-      },
-      {
-        "title": "Uunitomaatti",
-        "properties": [
-          "G"
-        ]
-      }
-    ],
-    "2026-09-18": [
-      {
-        "title": "Savutofucarbonara",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": "Uunitomaatti VE,G",
-        "properties": [
-          "G"
-        ]
-      }
-    ],
-    "2026-09-14": [
-      {
-        "title": "Tofua ja pinaattia Palak paneer",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": "Lihapullat & Kermaista Dijonkastiketta",
-        "properties": [
-          "G",
-          "L"
-        ]
-      },
-      {
-        "title": "Perunamuussi",
-        "properties": [
-          "G",
-          "L"
-        ]
-      },
-      {
-        "title": "Paahtoporkkanaa",
-        "properties": [
-          "G"
-        ]
-      }
-    ],
-    "2026-09-09": [
-      {
-        "title": "Chili con Härkis",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": "Broileria Satay",
-        "properties": [
-          "G",
-          "L"
-        ]
-      },
-      {
-        "title": "Paahdettua kukkakaalia",
-        "properties": [
-          "G"
-        ]
-      }
-    ],
     "2026-09-15": [
       {
         "title": " Härkäpapu Red Curry",
@@ -6807,6 +6725,45 @@
         ]
       }
     ],
+    "2026-09-09": [
+      {
+        "title": "Chili con Härkis",
+        "properties": [
+          "G"
+        ]
+      },
+      {
+        "title": "Broileria Satay",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Paahdettua kukkakaalia",
+        "properties": [
+          "G"
+        ]
+      }
+    ],
+    "2026-09-10": [
+      {
+        "title": "Nyhtökaura-perunagnoccivuoka ",
+        "properties": []
+      },
+      {
+        "title": "Sitruunainen kalaleike ja kurkkusalaattikastiketta L",
+        "properties": [
+          "L"
+        ]
+      },
+      {
+        "title": " Wasabiherne",
+        "properties": [
+          "G"
+        ]
+      }
+    ],
     "2026-09-17": [
       {
         "title": "Karibian kasvispihvi, valkosipuli-sesamdippi",
@@ -6827,19 +6784,62 @@
         ]
       }
     ],
-    "2026-09-10": [
+    "2026-09-18": [
       {
-        "title": "Nyhtökaura-perunagnoccivuoka ",
+        "title": "Savutofucarbonara",
+        "properties": [
+          "G"
+        ]
+      },
+      {
+        "title": "Uunitomaatti VE,G",
+        "properties": [
+          "G"
+        ]
+      }
+    ],
+    "2026-09-11": [
+      {
+        "title": "Seitan bolognese",
         "properties": []
       },
       {
-        "title": "Sitruunainen kalaleike ja kurkkusalaattikastiketta L",
+        "title": "Carbonara-kastiketta",
         "properties": [
+          "G",
           "L"
         ]
       },
       {
-        "title": " Wasabiherne",
+        "title": "Uunitomaatti",
+        "properties": [
+          "G"
+        ]
+      }
+    ],
+    "2026-09-14": [
+      {
+        "title": "Tofua ja pinaattia Palak paneer",
+        "properties": [
+          "G"
+        ]
+      },
+      {
+        "title": "Lihapullat & Kermaista Dijonkastiketta",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Perunamuussi",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Paahtoporkkanaa",
         "properties": [
           "G"
         ]
@@ -6977,6 +6977,31 @@
     ]
   },
   "74": {
+    "2026-09-09": [
+      {
+        "title": "Avokado-lehtikaalitoast",
+        "properties": []
+      },
+      {
+        "title": "Chili-inkiväärimarinoitu luomutofubowl",
+        "properties": [
+          "G"
+        ]
+      },
+      {
+        "title": "Katkarapu Bowl",
+        "properties": [
+          "G",
+          "M"
+        ]
+      },
+      {
+        "title": "Linssikeitto",
+        "properties": [
+          "G"
+        ]
+      }
+    ],
     "2026-09-11": [
       {
         "title": "Avokado-lehtikaalitoast",
@@ -7021,31 +7046,6 @@
         "properties": [
           "G",
           "L"
-        ]
-      }
-    ],
-    "2026-09-09": [
-      {
-        "title": "Avokado-lehtikaalitoast",
-        "properties": []
-      },
-      {
-        "title": "Chili-inkiväärimarinoitu luomutofubowl",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": "Katkarapu Bowl",
-        "properties": [
-          "G",
-          "M"
-        ]
-      },
-      {
-        "title": "Linssikeitto",
-        "properties": [
-          "G"
         ]
       }
     ]
@@ -7330,25 +7330,6 @@
         ]
       }
     ],
-    "2026-09-12": [
-      {
-        "title": "Unlimited Jauhislasagnette",
-        "properties": []
-      },
-      {
-        "title": "Butter fish",
-        "properties": [
-          "G",
-          "L"
-        ]
-      },
-      {
-        "title": "Keitetty peruna",
-        "properties": [
-          "G"
-        ]
-      }
-    ],
     "2026-09-09": [
       {
         "title": "TIEDOTE Muuttunut lounasaika: klo 10.30-16.30",
@@ -7422,6 +7403,25 @@
       {
         "title": "Pasta",
         "properties": []
+      },
+      {
+        "title": "Keitetty peruna",
+        "properties": [
+          "G"
+        ]
+      }
+    ],
+    "2026-09-12": [
+      {
+        "title": "Unlimited Jauhislasagnette",
+        "properties": []
+      },
+      {
+        "title": "Butter fish",
+        "properties": [
+          "G",
+          "L"
+        ]
       },
       {
         "title": "Keitetty peruna",
@@ -7928,6 +7928,53 @@
         "properties": []
       }
     ],
+    "2026-09-09": [
+      {
+        "title": "Porkkanasosekeitto",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Lihapullat pippurikastikkeella",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Kana-peruna vuoka",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Pesto spaghetti",
+        "properties": []
+      },
+      {
+        "title": "JASMIN RIISI",
+        "properties": [
+          "G",
+          "S",
+          "VV"
+        ]
+      },
+      {
+        "title": "Kasvikset",
+        "properties": [
+          "G",
+          "S",
+          "VV"
+        ]
+      },
+      {
+        "title": "ERIKOIS SALAATTIPÖYTÄ",
+        "properties": []
+      }
+    ],
     "2026-09-10": [
       {
         "title": "Pinaattikeitto",
@@ -7954,53 +8001,6 @@
         "properties": [
           "L"
         ]
-      },
-      {
-        "title": "JASMIN RIISI",
-        "properties": [
-          "G",
-          "S",
-          "VV"
-        ]
-      },
-      {
-        "title": "Kasvikset",
-        "properties": [
-          "G",
-          "S",
-          "VV"
-        ]
-      },
-      {
-        "title": "ERIKOIS SALAATTIPÖYTÄ",
-        "properties": []
-      }
-    ],
-    "2026-09-09": [
-      {
-        "title": "Porkkanasosekeitto",
-        "properties": [
-          "G",
-          "L"
-        ]
-      },
-      {
-        "title": "Lihapullat pippurikastikkeella",
-        "properties": [
-          "G",
-          "L"
-        ]
-      },
-      {
-        "title": "Kana-peruna vuoka",
-        "properties": [
-          "G",
-          "L"
-        ]
-      },
-      {
-        "title": "Pesto spaghetti",
-        "properties": []
       },
       {
         "title": "JASMIN RIISI",

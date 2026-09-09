@@ -65,6 +65,37 @@ const curatedDishOverrides: Record<string, string> = {
   'Pepperonipizza, sipulia ja paprikaa': '意大利辣香肠披萨（配洋葱与彩椒）',
   'Feta-päärynäpizza ja cashewpähkinää': '羊乳酪梨披萨（配腰果）',
   'The Bloc hampurilainen ja ranskalaiset perunat A': 'The Bloc 汉堡配薯条',
+  // Tietotekniikantalo curated dishes
+  'Juures-PapuPyttipannu klo 10.30-18.00':
+    '根茎蔬菜豆类炒杂烩 (10:30-18:00)',
+  'Paneroitu Porsaanleike (1kpl), ChiliMajoneesia & Paahdettuja Perunoita 10.30-14.00':
+    '香脆炸猪排 (1块) 配辣椒蛋黄酱与烤土豆 (10:30-14:00)',
+  'Mausteinen KinkkuKiusaus klo 10.30-18.00':
+    '风味火腿烤土豆焗煲 (10:30-18:00)',
+  'Täytetyt Subit Opiskelijahinnoin, Subway Otaniemi klo 10.30 - 19.00':
+    'Subway 奥塔涅米店学生特惠潜水艇三明治 (10:30-19:00)',
+  'Mausteinen Broileri/ ja nautaKiusaus klo 14.00/18.00':
+    '风味鸡肉与牛肉烤土豆焗煲 (14:00-18:00)',
+  'Vegaanista KasvisLasagnea klo 10.30-18.00':
+    '纯素蔬菜千层面 (10:30-18:00)',
+  'Uunimakkaraa Juustokuorrutteella (1kpl) & Perunaa 10.30-18.00':
+    '芝士焗烤香肠 (1根) 配土豆 (10:30-18:00)',
+  'SalviaKalkkunaPataa & Riisiä klo 10.30-18.00':
+    '鼠尾草火鸡肉炖煲配米饭 (10:30-18:00)',
+  'Hernekeittoa, Pannukakku (1kpl), Hilloa & Kermavaahtoa klo 10.30 - 14.00':
+    '传统芬兰豌豆汤、厚烤松饼 (1块) 配果酱及鲜奶油 (10:30-14:00)',
+  'Kasvishernekeittoa, Pannukakku (1kpl), Hilloa & Kermavaahtoa klo 10.30 - 14.00':
+    '蔬菜素豌豆汤、厚烤松饼 (1块) 配果酱及鲜奶油 (10:30-14:00)',
+  'Pannukakku (1kpl), Hilloa & Kermavaahtoa klo 10.30 - 14.00':
+    '厚烤松饼 (1块) 配果酱及鲜奶油 (10:30-14:00)',
+  'Chili-Suklaa-MustapapuPata, Riisiä, Kermaviilikastiketta HUOM! klo 10.30-15.00':
+    '辣椒黑巧黑豆炖菜配米饭及酸奶油酱 (注意! 10:30-15:00)',
+  'Paneroidut Kalapuikot (5kpl) TilliKermaviilikastiketta, Perunaa HUOM! klo 10.30-15.00':
+    '香酥鱼柳棒 (5条) 配莳萝酸奶油酱与土豆 (注意! 10:30-15:00)',
+  'Omenapiirakkaa & Kanelikermavaahtoa HUOM! klo 10.30-15.00':
+    '苹果派配肉桂鲜奶油 (注意! 10:30-15:00)',
+  'Täytetyt Subit Opiskelijahinnoin, Subway Otaniemi HUOM! klo 10.30 - 17.00 ':
+    'Subway 奥塔涅米店学生特惠潜水艇三明治 (注意! 10:30-17:00)',
 };
 
 // In-memory translation caches
@@ -149,10 +180,19 @@ export function parseCourseTitle(rawTitle: string): {
   let dish = rawTitle.trim();
 
   // Match: "Category : Dish" or "Category: Dish"
-  const match = rawTitle.match(/^([^:：]+)[:：]\s*(.+)$/);
+  // Do NOT match time patterns like "klo 10.30" or numbers with colons
+  const match = rawTitle.match(/^([^:：]+?)[:：]\s+(.+)$/);
   if (match) {
-    category = match[1].trim();
-    dish = match[2].trim();
+    const candidate = match[1].trim();
+    if (
+      categoryTranslationsZh[candidate] ||
+      (!candidate.toLowerCase().startsWith('klo') &&
+        !candidate.toLowerCase().startsWith('huom') &&
+        !/^\d+[:.]\d+/.test(candidate))
+    ) {
+      category = candidate;
+      dish = match[2].trim();
+    }
   }
 
   let subTag = '';
@@ -360,8 +400,8 @@ export async function translateCourses(
 
     return {
       ...course,
-      category: transCategory || undefined,
-      originalCategory: parsed.category || undefined,
+      category: parsed.category ? transCategory || parsed.category : '',
+      originalCategory: parsed.category || '',
       title: displayTitle,
       originalTitle: origTitle,
     };

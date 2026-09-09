@@ -14,11 +14,23 @@ const getCourseGroup = (course: CourseType) => {
   if (course.category !== undefined) {
     return course.category;
   }
+  if (course.originalTitle !== undefined) {
+    return '';
+  }
   if (!course.title) {
     return '';
   }
-  const split = course.title.split(/[:：]/);
-  return split.length > 1 ? split[0].trim() : '';
+  const match = course.title.match(/^([^:0-9][^:]*?):\s+(.+)$/);
+  if (match) {
+    const candidate = match[1].trim();
+    if (
+      !candidate.toLowerCase().startsWith('klo') &&
+      !candidate.toLowerCase().startsWith('huom')
+    ) {
+      return candidate;
+    }
+  }
+  return '';
 };
 
 const cleanCourseTitle = (title: string, groupKey: string) => {
