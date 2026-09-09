@@ -1,7 +1,7 @@
 import { styled } from 'solid-styled-components';
 
 import { setState, state } from '../../state';
-import { properties } from '../../translations';
+import { getPropertyName, properties } from '../../translations';
 import { getArrayWithToggled } from '../../utils';
 import Tooltip from '../Tooltip';
 
@@ -50,11 +50,7 @@ interface Props {
 export default function Property(props: Props) {
   const prop = () => properties.find(p => p.key === props.property)!;
   const propName = () =>
-    prop
-      ? state.preferences.lang === 'fi'
-        ? prop().name_fi
-        : prop().name_en
-      : '';
+    prop() ? getPropertyName(prop(), state.preferences.lang) : '';
   return (
     <Container
       text={propName()}

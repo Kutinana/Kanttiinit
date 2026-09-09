@@ -17,6 +17,7 @@ import InlineIcon from '../InlineIcon';
 import Link from '../Link';
 import EN from './en.svg';
 import FI from './fi.svg';
+import ZH from './zh.svg';
 
 const Container = styled.header`
   background: var(--topbar-bg);
@@ -227,12 +228,22 @@ export default function TopBar() {
   const closeAreaSelector = () => setAreaSelectorOpen(false);
 
   function toggleLang() {
-    setState(
-      'preferences',
-      'lang',
-      state.preferences.lang === Lang.FI ? Lang.EN : Lang.FI,
-    );
+    let nextLang = Lang.EN;
+    if (state.preferences.lang === Lang.FI) {
+      nextLang = Lang.EN;
+    } else if (state.preferences.lang === Lang.EN) {
+      nextLang = Lang.ZH;
+    } else {
+      nextLang = Lang.FI;
+    }
+    setState('preferences', 'lang', nextLang);
   }
+
+  const flagSrc = () => {
+    if (state.preferences.lang === Lang.FI) return FI;
+    if (state.preferences.lang === Lang.ZH) return ZH;
+    return EN;
+  };
 
   const [areas] = resources.areas;
 
@@ -294,7 +305,7 @@ export default function TopBar() {
           >
             <FlagImg
               alt={state.preferences.lang.toUpperCase()}
-              src={state.preferences.lang === 'fi' ? FI : EN}
+              src={flagSrc()}
             />
           </NativeIconLink>
         </Content>

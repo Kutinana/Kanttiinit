@@ -51,6 +51,7 @@ const orders = [Order.AUTOMATIC, Order.ALPHABET, Order.DISTANCE];
 const languageOptions = [
   { label: 'Finnish', value: Lang.FI },
   { label: 'English', value: Lang.EN },
+  { label: '中文', value: Lang.ZH },
 ];
 
 interface RowProps {

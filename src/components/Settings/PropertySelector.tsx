@@ -1,6 +1,6 @@
 import { For } from 'solid-js';
 import { setState, state } from '../../state';
-import { properties } from '../../translations';
+import { getPropertyName, properties } from '../../translations';
 import { getArrayWithToggled } from '../../utils';
 import { RoundedButton, RoundedButtonContainer } from '../RoundedButton';
 
@@ -31,7 +31,7 @@ export default function PropertySelector(props: {
             color={p.desired ? 'var(--friendly)' : 'var(--text-muted)'}
             selected={isPropertySelected(p.key)}
           >
-            {state.preferences.lang === 'fi' ? p.name_fi : p.name_en}
+            {getPropertyName(p, state.preferences.lang)}
           </RoundedButton>
         )}
       </For>

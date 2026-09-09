@@ -3,7 +3,7 @@ import { styled } from 'solid-styled-components';
 import { HeartFilledIcon } from '../../icons';
 import { state } from '../../state';
 import { properties } from '../../translations';
-import { type CourseType, HighlighOperator } from '../../types';
+import { type CourseType, HighlighOperator, Lang } from '../../types';
 import { isFavorite } from '../../utils';
 import Property from './Property';
 
@@ -23,6 +23,15 @@ const CourseTitle = styled.h2<{ highlight: boolean; dimmed: boolean }>`
       : ''}
 
   ${props => (props.dimmed ? 'color: var(--text-disabled);' : '')}
+`;
+
+const CourseSubtitle = styled.span`
+  display: block;
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  font-weight: 400;
+  margin-top: 1px;
+  line-height: 1.2;
 `;
 
 const PropertyContainer = styled.span`
@@ -101,7 +110,12 @@ const Course = (props: { course: CourseType }) => {
     <CourseWrapper favorite={isFav()}>
       {isFav() && <FavoriteIcon />}
       <CourseTitle highlight={highlight()} dimmed={dim()}>
-        {props.course.title}
+        <span>{props.course.title}</span>
+        {state.preferences.lang === Lang.ZH &&
+          props.course.originalTitle &&
+          props.course.originalTitle !== props.course.title && (
+            <CourseSubtitle>{props.course.originalTitle}</CourseSubtitle>
+          )}
       </CourseTitle>
       <PropertyContainer>
         <For each={props.course.properties}>

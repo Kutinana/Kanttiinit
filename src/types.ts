@@ -46,6 +46,9 @@ export interface MenuType {
 
 export interface CourseType {
   title: string;
+  originalTitle?: string;
+  category?: string;
+  originalCategory?: string;
   properties: string[];
 }
 
@@ -62,6 +65,7 @@ export interface Update {
 export enum Lang {
   FI = 'fi',
   EN = 'en',
+  ZH = 'zh',
 }
 
 export enum Order {

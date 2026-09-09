@@ -6,15 +6,25 @@ import Course from './Course';
 
 interface CourseGroup {
   key: string;
+  originalKey?: string;
   courses: CourseType[];
 }
 
 const getCourseGroup = (course: CourseType) => {
+  if (course.category !== undefined) {
+    return course.category;
+  }
   if (!course.title) {
     return '';
   }
-  const split = course.title.split(':');
-  return split.length > 1 ? split[0] : '';
+  const split = course.title.split(/[:：]/);
+  return split.length > 1 ? split[0].trim() : '';
+};
+
+const cleanCourseTitle = (title: string, groupKey: string) => {
+  if (!groupKey) return title;
+  const escaped = groupKey.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  return title.replace(new RegExp(`^${escaped}\\s*[:：]\\s*`, 'i'), '').trim();
 };
 
 interface Props {
@@ -38,11 +48,20 @@ const Group = styled.ul`
 `;
 
 const GroupTitle = styled.h1`
-  display: block;
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.4ch;
   color: var(--text-secondary);
-  margin: 0 0 0.2rem 0;
-  font-size: 0.8em;
+  margin: 0 0 0.25rem 0;
+  font-size: 0.82em;
   font-weight: 500;
+`;
+
+const GroupSubTitle = styled.span`
+  font-size: 0.72rem;
+  color: var(--text-muted);
+  font-weight: 400;
 `;
 
 const EmptyText = styled.p`
@@ -54,9 +73,7 @@ const EmptyText = styled.p`
 `;
 
 const capitalize = (string: string) => {
-  return string
-    ? string.charAt(0).toUpperCase() + string.slice(1).toLowerCase()
-    : '';
+  return string ? string.charAt(0).toUpperCase() + string.slice(1) : '';
 };
 
 const CourseList = (props: Props) => {
@@ -74,15 +91,20 @@ const CourseList = (props: Props) => {
       {} as { [key: string]: CourseType[] },
     );
 
-    return Object.keys(groups).map(groupKey => ({
-      courses: groups[groupKey]
-        .filter(c => !!c.title)
-        .map(c => ({
+    return Object.keys(groups).map(groupKey => {
+      const groupCourses = groups[groupKey].filter(c => !!c.title);
+      const originalCategory = groupCourses.find(
+        c => c.originalCategory,
+      )?.originalCategory;
+      return {
+        courses: groupCourses.map(c => ({
           ...c,
-          title: c.title.replace(`${groupKey}: `, ''),
+          title: cleanCourseTitle(c.title, groupKey),
         })),
-      key: groupKey,
-    }));
+        key: groupKey,
+        originalKey: originalCategory,
+      };
+    });
   });
 
   return (
@@ -93,7 +115,14 @@ const CourseList = (props: Props) => {
       <For each={courseGroups()}>
         {(group: CourseGroup) => (
           <Group>
-            <GroupTitle>{capitalize(group.key)}</GroupTitle>
+            {group.key && (
+              <GroupTitle>
+                <span>{capitalize(group.key)}</span>
+                {group.originalKey && group.originalKey !== group.key && (
+                  <GroupSubTitle>({group.originalKey})</GroupSubTitle>
+                )}
+              </GroupTitle>
+            )}
             <For each={group.courses}>{c => <Course course={c} />}</For>
           </Group>
         )}

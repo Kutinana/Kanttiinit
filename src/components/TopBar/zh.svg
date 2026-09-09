@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="flag-icon-css-cn" viewBox="0 0 640 480">
+  <defs>
+    <path id="star" fill="#ffde00" d="M-.587785.809017L0-1l.587785 1.809017L-.951057-.309017H.951057z"/>
+  </defs>
+  <path fill="#de2910" d="M0 0h640v480H0z"/>
+  <use xlink:href="#star" transform="matrix(72 0 0 72 106.7 120)"/>
+  <use xlink:href="#star" transform="matrix(-9.83296 -21.98064 21.98064 -9.83296 213.3 48)"/>
+  <use xlink:href="#star" transform="matrix(6.46788 -23.2384 23.2384 6.46788 256 96)"/>
+  <use xlink:href="#star" transform="matrix(20.4878 -12.68412 12.68412 20.4878 256 168)"/>
+  <use xlink:href="#star" transform="matrix(9.83296 -21.98064 21.98064 9.83296 213.3 216)"/>
+</svg>

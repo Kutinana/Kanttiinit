@@ -26,11 +26,12 @@
   "scripts": {
     "start": "vite",
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build && cp dist/index.html dist/404.html",
     "serve": "vite preview",
     "lint": "biome check .",
     "fix-lint": "biome check . --fix",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "update-translations": "node scripts/update-translations.mjs"
   },
   "author": "Jere Vaara, Max Huttunen",
   "repository": {

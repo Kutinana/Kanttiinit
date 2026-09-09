@@ -1,0 +1,43 @@
+name: Auto Update Translations
+
+on:
+  schedule:
+    # Run every day at 04:00 UTC (07:00 Helsinki time)
+    - cron: '0 4 * * *'
+    # Also run on Sunday evening at 18:00 UTC (21:00 Helsinki time) when weekly menus are published
+    - cron: '0 18 * * 0'
+  workflow_dispatch: # Allows manual trigger from GitHub web UI
+
+jobs:
+  update-translations:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: '.node-version'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm install --include=dev
+
+      - name: Run translation update
+        run: npm run update-translations
+
+      - name: Commit and push if translations updated
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add src/data/translations-zh.json public/translations-zh.json
+          if git diff --staged --quiet; then
+            echo "No translation updates needed."
+          else
+            git commit -m "chore(i18n): auto-update Chinese translations for newest menus"
+            git push
+          fi

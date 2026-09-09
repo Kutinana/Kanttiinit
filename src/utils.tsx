@@ -9,7 +9,11 @@ import {
   setMinutes,
   startOfDay,
 } from 'date-fns';
-import { enGB as enLocale, fi as fiLocale } from 'date-fns/locale';
+import {
+  enGB as enLocale,
+  fi as fiLocale,
+  zhCN as zhLocale,
+} from 'date-fns/locale';
 import { type ISortByObjectSorter, sort } from 'fast-sort';
 import haversine from 'haversine';
 import { type Accessor, createMemo, createSignal } from 'solid-js';
@@ -36,7 +40,10 @@ export const selectedFavorites = createMemo(() => {
 
 export const isFavorite = (course: CourseType) =>
   selectedFavorites().some(
-    favorite => !!course.title.match(new RegExp(favorite.regexp, 'i')),
+    favorite =>
+      !!course.title.match(new RegExp(favorite.regexp, 'i')) ||
+      (course.originalTitle &&
+        !!course.originalTitle.match(new RegExp(favorite.regexp, 'i'))),
   );
 
 export const formattedFavorites: Accessor<
@@ -130,6 +137,7 @@ export const useFormattedRestaurants = createMemo(() => {
 const locales = {
   en: enLocale,
   fi: fiLocale,
+  zh: zhLocale,
 };
 
 export const formattedDay = (date: Date, dateFormat: string) =>
