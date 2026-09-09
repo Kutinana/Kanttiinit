@@ -51,6 +51,13 @@ export default defineConfig({
   server: {
     port: 8080,
     hmr: false,
+    proxy: {
+      '/api/kitchen': {
+        target: 'https://kitchen.kanttiinit.fi',
+        changeOrigin: true,
+        rewrite: path => path.replace(/^\/api\/kitchen/, ''),
+      },
+    },
   },
   build: {
     target: 'es2015',

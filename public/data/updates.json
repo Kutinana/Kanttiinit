@@ -1,0 +1,56 @@
+[
+  {
+    "id": 18,
+    "title": "Kanttiinit backend rewrite",
+    "description": "The [backend service powering Kanttiinit.fi](https://github.com/Kanttiinit/kitchen) has been rewritten and now statically contains all restaurant, area and favorites data. This means that anyone can now propose changes to the data including adding and removing restaurants.",
+    "createdAt": "2026-09-06T00:00:00.000+00:00"
+  },
+  {
+    "id": 17,
+    "title": "New web client",
+    "description": "The web client has been rewritten using more modern technologies (mainly SolidJS) to make it load faster and feel snappier. Let us know if you encounter any bugs!",
+    "createdAt": "2023-01-09T16:29:45.615+00:00"
+  },
+  {
+    "id": 16,
+    "title": "Price categories",
+    "description": "Each restaurant now has a price category which indicates what kind of student discounts they offer (if any). You can change which restaurants you want to see based on this information in the settings. This update also finally fixes the maps.",
+    "createdAt": "2020-09-15T16:19:46.597+00:00"
+  },
+  {
+    "id": 15,
+    "title": "New iOS app",
+    "description": "A completely rewritten iOS app is now available on the App Store. [Click here to download](https://apps.apple.com/fi/app/kanttiinit/id1069903670).",
+    "createdAt": "2020-07-17T10:44:22.887+00:00"
+  },
+  {
+    "id": 14,
+    "title": "Suggest fixes to restaurant information",
+    "description": "You can now suggest fixes to opening hours and location information of restaurants by clicking on the icon in the lower left corner of a restaurant card.",
+    "createdAt": "2019-02-11T15:03:04.662+00:00"
+  },
+  {
+    "id": 13,
+    "title": "Dark mode",
+    "description": "You can now toggle between dark and light mode in the settings. This release also introduces some minor bug fixes.",
+    "createdAt": "2018-09-03T11:36:25.969+00:00"
+  },
+  {
+    "id": 9,
+    "title": "Offline-support",
+    "description": "The site should now work also offline taken that all required assets have been downloaded previously.",
+    "createdAt": "2018-02-26T10:45:22.749+00:00"
+  },
+  {
+    "id": 7,
+    "title": "Coherent food properties between all restaurants",
+    "description": "We now normalise food properties between restaurants. Finally all letters mean the same things!",
+    "createdAt": "2018-01-12T11:57:20.968+00:00"
+  },
+  {
+    "id": 2,
+    "title": "Implement update system",
+    "description": "Implement a first version of this update system.",
+    "createdAt": "2017-11-08T11:45:47.84+00:00"
+  }
+]

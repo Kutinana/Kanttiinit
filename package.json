@@ -26,6 +26,8 @@
   "scripts": {
     "start": "vite",
     "dev": "vite",
+    "prebuild": "node scripts/fetch-static-data.mjs",
+    "fetch-data": "node scripts/fetch-static-data.mjs",
     "build": "vite build && cp dist/index.html dist/404.html",
     "serve": "vite preview",
     "lint": "biome check .",

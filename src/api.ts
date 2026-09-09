@@ -81,16 +81,9 @@ export const getMenus = async (
 };
 
 export const sendFeedback = (message: string, email: string) =>
-  fetch('https://kitchen.kanttiinit.fi/contact', {
-    body: JSON.stringify({
-      message,
-      email,
-    }),
-    headers: {
-      Accept: 'application/json',
-      'Content-Type': 'application/json',
-    },
-    method: 'POST',
+  http.post('/contact', {
+    message,
+    email,
   });
 
 export const getUpdates = (): Promise<Update[]> => {

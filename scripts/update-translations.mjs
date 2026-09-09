@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { fetchStaticData } from './fetch-static-data.mjs';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -236,6 +237,9 @@ async function main() {
   const jsonStr = JSON.stringify(existingDict, null, 2);
   fs.writeFileSync(SRC_DATA_FILE, jsonStr, 'utf-8');
   fs.writeFileSync(PUBLIC_DATA_FILE, jsonStr, 'utf-8');
+
+  // Also sync fresh static data snapshots for offline and GitHub Pages support
+  await fetchStaticData();
 
   console.log('----------------------------------------------------');
   console.log(`✓ Translations saved to:`);

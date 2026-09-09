@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1,
+    "regexp": "pizza",
+    "name": "pizza"
+  },
+  {
+    "id": 2,
+    "regexp": "kebab",
+    "name": "kebab"
+  },
+  {
+    "id": 4,
+    "regexp": "makaroni\\s?laatikko|macaroni\\s?cass?erole",
+    "name": "macaroni casserole"
+  },
+  {
+    "id": 5,
+    "regexp": "\\bkana|broileri?|chicken",
+    "name": "chicken"
+  },
+  {
+    "id": 6,
+    "regexp": "bolognese",
+    "name": "bolognese"
+  },
+  {
+    "id": 7,
+    "regexp": "salaatti|salad",
+    "name": "salad"
+  },
+  {
+    "id": 8,
+    "regexp": "liha\\s?(pulla|pyörykät|pyörykkä)|meat\\s?balls?",
+    "name": "meat balls"
+  },
+  {
+    "id": 9,
+    "regexp": "(ham)?purilainen",
+    "name": "hamburger"
+  },
+  {
+    "id": 10,
+    "regexp": "\\bkala|fish",
+    "name": "fish"
+  },
+  {
+    "id": 11,
+    "regexp": "uuni\\s?makkara|sausage.*oven|oven.*sausage",
+    "name": "sausage baked in the oven"
+  },
+  {
+    "id": 12,
+    "regexp": "pihvi|steak",
+    "name": "steak"
+  },
+  {
+    "id": 13,
+    "regexp": "kasvis|vegetarian",
+    "name": "vegetarian"
+  },
+  {
+    "id": 16,
+    "regexp": "tofu",
+    "name": "tofu"
+  },
+  {
+    "id": 17,
+    "regexp": "leike|cutlet",
+    "name": "cutlet"
+  },
+  {
+    "id": 18,
+    "regexp": "spagh?etti",
+    "name": "spaghetti"
+  },
+  {
+    "id": 19,
+    "regexp": "lohi|salmon",
+    "name": "salmon"
+  },
+  {
+    "id": 20,
+    "regexp": "herkkusieni",
+    "name": "champignon"
+  },
+  {
+    "id": 21,
+    "regexp": "juusto|cheese",
+    "name": "cheese"
+  },
+  {
+    "id": 22,
+    "regexp": "soija|soy",
+    "name": "soy"
+  },
+  {
+    "id": 24,
+    "regexp": "pekoni|bacon",
+    "name": "bacon"
+  },
+  {
+    "id": 25,
+    "regexp": "bbq",
+    "name": "BBQ"
+  },
+  {
+    "id": 26,
+    "regexp": "grill",
+    "name": "grill"
+  },
+  {
+    "id": 27,
+    "regexp": "feta",
+    "name": "feta"
+  },
+  {
+    "id": 28,
+    "regexp": "seiti|saithe|pollock|coal\\s?fish",
+    "name": "saithe"
+  },
+  {
+    "id": 29,
+    "regexp": "jauheliha|minced meat",
+    "name": "minced meat"
+  },
+  {
+    "id": 30,
+    "regexp": "pytti\\s?pannu|hash",
+    "name": "hash"
+  },
+  {
+    "id": 31,
+    "regexp": "thai",
+    "name": "thai"
+  },
+  {
+    "id": 32,
+    "regexp": "luomu|organic",
+    "name": "organic"
+  },
+  {
+    "id": 33,
+    "regexp": "chili",
+    "name": "chili"
+  },
+  {
+    "id": 34,
+    "regexp": "sieni|mushroom",
+    "name": "mushroom"
+  },
+  {
+    "id": 35,
+    "regexp": "hernekeitto",
+    "name": "pea soup"
+  },
+  {
+    "id": 36,
+    "regexp": "(intialai(set|nen)|indian)|(butter chicken)|(palak paneer)",
+    "name": "indian"
+  },
+  {
+    "id": 37,
+    "regexp": "hapan\\s?imelä|sweet\\s?(and|\\&|.)\\s?sour",
+    "name": "sweet and sour"
+  },
+  {
+    "id": 38,
+    "regexp": "kirjoloh|rainbow trout",
+    "name": "rainbow trout"
+  },
+  {
+    "id": 39,
+    "regexp": "keitto|soup",
+    "name": "soup"
+  },
+  {
+    "id": 40,
+    "regexp": "ch?orizo|ch?ouri.o",
+    "name": "chorizo"
+  },
+  {
+    "id": 41,
+    "regexp": "halloum",
+    "name": "halloumi"
+  },
+  {
+    "id": 42,
+    "regexp": "kikherne|chickpea",
+    "name": "chickpea"
+  },
+  {
+    "id": 43,
+    "regexp": "(kvi|qui)noa",
+    "name": "quinoa"
+  },
+  {
+    "id": 44,
+    "regexp": "(mexica|meksikolaine)n",
+    "name": "mexican"
+  },
+  {
+    "id": 45,
+    "regexp": "wok",
+    "name": "wok"
+  },
+  {
+    "id": 46,
+    "regexp": "tortill",
+    "name": "tortillas"
+  },
+  {
+    "id": 47,
+    "regexp": "munakoiso|eggplant",
+    "name": "eggplant"
+  },
+  {
+    "id": 48,
+    "regexp": "(härk(is|äpapu)|(fava|broad|faba) bean)",
+    "name": "fava bean"
+  },
+  {
+    "id": 49,
+    "regexp": "pasta",
+    "name": "pasta"
+  }
+]

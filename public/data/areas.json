@@ -1,0 +1,109 @@
+[
+  {
+    "id": 1,
+    "name": "Otaniemi",
+    "restaurants": [
+      1,
+      2,
+      3,
+      5,
+      7,
+      41,
+      45,
+      50,
+      52,
+      59,
+      73,
+      84
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Helsingin keskusta",
+    "restaurants": [
+      12,
+      13,
+      16,
+      17,
+      25,
+      26,
+      27,
+      53,
+      61,
+      69,
+      71,
+      74
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Töölö",
+    "restaurants": [
+      24,
+      67,
+      80
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Kallio",
+    "restaurants": [
+      42
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Arabia & Kumpula",
+    "restaurants": [
+      32,
+      33,
+      34,
+      55,
+      66,
+      68,
+      72,
+      82
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Viikki",
+    "restaurants": [
+      37,
+      38,
+      39,
+      75,
+      81
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Meilahti",
+    "restaurants": [
+      47,
+      49,
+      83
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Vantaa",
+    "restaurants": [
+      54
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Itä-Helsinki",
+    "restaurants": [
+      65
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Pasila",
+    "restaurants": [
+      85
+    ]
+  }
+]
