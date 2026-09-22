@@ -102,7 +102,7 @@
   {
     "id": 12,
     "name": "Kaivopiha",
-    "areaId": 1,
+    "areaId": 2,
     "priceCategory": "student",
     "latitude": 60.168859,
     "longitude": 24.940881,
@@ -122,7 +122,7 @@
   {
     "id": 13,
     "name": "Cafe Portaali",
-    "areaId": 1,
+    "areaId": 2,
     "priceCategory": "student",
     "latitude": 60.169955,
     "longitude": 24.948389,
@@ -130,7 +130,7 @@
     "menuUrl": "https://unicafe.fi/wp-json/swiss/v1/restaurants?lang=%lang%#cafe-portaali",
     "address": "Vuorikatu 3, 00170 Helsinki",
     "openingHours": [
-      "8:30 - 14:00",
+      "8:30 - 23:00",
       "8:30 - 14:00",
       "8:30 - 14:00",
       "8:30 - 14:00",
@@ -142,7 +142,7 @@
   {
     "id": 16,
     "name": "Metsätalo",
-    "areaId": 1,
+    "areaId": 2,
     "priceCategory": "student",
     "latitude": 60.172295,
     "longitude": 24.949066,
@@ -162,7 +162,7 @@
   {
     "id": 17,
     "name": "Olivia",
-    "areaId": 1,
+    "areaId": 2,
     "priceCategory": "student",
     "latitude": 60.175101,
     "longitude": 24.952958,
@@ -182,7 +182,7 @@
   {
     "id": 24,
     "name": "Hanken",
-    "areaId": 1,
+    "areaId": 3,
     "priceCategory": "student",
     "latitude": 60.171257,
     "longitude": 24.924383,
@@ -202,7 +202,7 @@
   {
     "id": 25,
     "name": "Soc&Kom",
-    "areaId": 1,
+    "areaId": 2,
     "priceCategory": "student",
     "latitude": 60.17308,
     "longitude": 24.952512,
@@ -222,7 +222,7 @@
   {
     "id": 26,
     "name": "Hämäläis-Osakunta",
-    "areaId": 1,
+    "areaId": 2,
     "priceCategory": "student",
     "latitude": 60.168799,
     "longitude": 24.933418,
@@ -242,7 +242,7 @@
   {
     "id": 27,
     "name": "Porthania",
-    "areaId": 1,
+    "areaId": 2,
     "priceCategory": "student",
     "latitude": 60.169953,
     "longitude": 24.948442,
@@ -262,7 +262,7 @@
   {
     "id": 32,
     "name": "Chemicum",
-    "areaId": 1,
+    "areaId": 7,
     "priceCategory": "student",
     "latitude": 60.206038,
     "longitude": 24.963432,
@@ -282,7 +282,7 @@
   {
     "id": 33,
     "name": "Exactum",
-    "areaId": 1,
+    "areaId": 7,
     "priceCategory": "student",
     "latitude": 60.205001,
     "longitude": 24.96301,
@@ -302,7 +302,7 @@
   {
     "id": 34,
     "name": "Physicum",
-    "areaId": 1,
+    "areaId": 7,
     "priceCategory": "student",
     "latitude": 60.204975,
     "longitude": 24.963471,
@@ -322,7 +322,7 @@
   {
     "id": 37,
     "name": "Viikuna",
-    "areaId": 1,
+    "areaId": 8,
     "priceCategory": "student",
     "latitude": 60.229297,
     "longitude": 25.021813,
@@ -342,7 +342,7 @@
   {
     "id": 38,
     "name": "Ladonlukko",
-    "areaId": 1,
+    "areaId": 8,
     "priceCategory": "student",
     "latitude": 60.229063,
     "longitude": 25.018578,
@@ -362,7 +362,7 @@
   {
     "id": 39,
     "name": "Tähkä",
-    "areaId": 1,
+    "areaId": 8,
     "priceCategory": "student",
     "latitude": 60.223026,
     "longitude": 25.019243,
@@ -402,7 +402,7 @@
   {
     "id": 42,
     "name": "Kookos",
-    "areaId": 1,
+    "areaId": 6,
     "priceCategory": "student",
     "latitude": 60.181096,
     "longitude": 24.958848,
@@ -442,7 +442,7 @@
   {
     "id": 47,
     "name": " Biomedicum",
-    "areaId": 1,
+    "areaId": 11,
     "priceCategory": "student",
     "latitude": 60.1891829,
     "longitude": 24.9054397,
@@ -462,7 +462,7 @@
   {
     "id": 49,
     "name": "UniCafe Meilahti",
-    "areaId": 1,
+    "areaId": 11,
     "priceCategory": "student",
     "latitude": 60.1909488,
     "longitude": 24.9070572,
@@ -522,7 +522,7 @@
   {
     "id": 53,
     "name": "Musiikkitalon Klubi",
-    "areaId": 1,
+    "areaId": 2,
     "priceCategory": "student",
     "latitude": 60.17368221130315,
     "longitude": 24.934795944774578,
@@ -542,7 +542,7 @@
   {
     "id": 54,
     "name": "Metropolia Leiritie",
-    "areaId": 1,
+    "areaId": 12,
     "priceCategory": "student",
     "latitude": 60.2586166,
     "longitude": 24.845661,
@@ -562,7 +562,7 @@
   {
     "id": 55,
     "name": "DIAK-Kalasatama",
-    "areaId": 1,
+    "areaId": 7,
     "priceCategory": "student",
     "latitude": 60.199107,
     "longitude": 24.969255,
@@ -602,7 +602,7 @@
   {
     "id": 61,
     "name": "Pesco & Vege Topelias",
-    "areaId": 1,
+    "areaId": 2,
     "priceCategory": "student",
     "latitude": 60.1717323,
     "longitude": 24.9483131,
@@ -622,7 +622,7 @@
   {
     "id": 65,
     "name": "Metropolia Myllypuro",
-    "areaId": 1,
+    "areaId": 15,
     "priceCategory": "student",
     "latitude": 60.223763,
     "longitude": 25.078732,
@@ -642,7 +642,7 @@
   {
     "id": 66,
     "name": "Luova",
-    "areaId": 1,
+    "areaId": 7,
     "priceCategory": "student",
     "latitude": 60.20996209152856,
     "longitude": 24.977054345406742,
@@ -662,7 +662,7 @@
   {
     "id": 67,
     "name": "Töölö 37",
-    "areaId": 1,
+    "areaId": 3,
     "priceCategory": "student",
     "latitude": 60.182149,
     "longitude": 24.9226542,
@@ -682,7 +682,7 @@
   {
     "id": 68,
     "name": "Arabianranta",
-    "areaId": 1,
+    "areaId": 7,
     "priceCategory": "student",
     "latitude": 60.2093431209008,
     "longitude": 24.9768483990148,
@@ -702,7 +702,7 @@
   {
     "id": 69,
     "name": "Helsingin yliopisto Päärakennus",
-    "areaId": 1,
+    "areaId": 2,
     "priceCategory": "student",
     "latitude": 60.1691084,
     "longitude": 24.9479599,
@@ -722,7 +722,7 @@
   {
     "id": 71,
     "name": "Myöhä Café & Bar",
-    "areaId": 1,
+    "areaId": 2,
     "priceCategory": "student",
     "latitude": 60.16905242513056,
     "longitude": 24.94084239006043,
@@ -742,7 +742,7 @@
   {
     "id": 72,
     "name": "Chemicum Opettajien ravintola",
-    "areaId": 1,
+    "areaId": 7,
     "priceCategory": "regular",
     "latitude": 60.205720485466856,
     "longitude": 24.96354716579012,
@@ -782,7 +782,7 @@
   {
     "id": 74,
     "name": "Kaisa-talo",
-    "areaId": 1,
+    "areaId": 2,
     "priceCategory": "student",
     "latitude": 60.1711237,
     "longitude": 24.9478039,
@@ -802,7 +802,7 @@
   {
     "id": 75,
     "name": "Infokeskus alakerta",
-    "areaId": 1,
+    "areaId": 8,
     "priceCategory": "student",
     "latitude": 60.227191,
     "longitude": 25.012324,
@@ -822,7 +822,7 @@
   {
     "id": 80,
     "name": "Tempo",
-    "areaId": 1,
+    "areaId": 3,
     "priceCategory": "student",
     "latitude": 60.17263105037024,
     "longitude": 24.930256141303516,
@@ -842,7 +842,7 @@
   {
     "id": 81,
     "name": "Biokeskus",
-    "areaId": 1,
+    "areaId": 8,
     "priceCategory": "student",
     "latitude": 60.2271066,
     "longitude": 25.014461,
@@ -862,7 +862,7 @@
   {
     "id": 82,
     "name": "Arcada",
-    "areaId": 1,
+    "areaId": 7,
     "priceCategory": "student",
     "latitude": 60.201567836551256,
     "longitude": 24.965468836046966,
@@ -882,7 +882,7 @@
   {
     "id": 83,
     "name": "Terkko",
-    "areaId": 1,
+    "areaId": 11,
     "priceCategory": "student",
     "latitude": 60.18897181319097,
     "longitude": 24.905728925153742,
@@ -922,7 +922,7 @@
   {
     "id": 85,
     "name": "Kamu",
-    "areaId": 1,
+    "areaId": 16,
     "priceCategory": "student",
     "latitude": 60.2007628,
     "longitude": 24.9298789,
