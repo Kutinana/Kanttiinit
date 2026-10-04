@@ -2,36 +2,11 @@
   "1": {},
   "2": {},
   "3": {
-    "2026-10-08": [
-      {
-        "title": "No menu available",
-        "properties": []
-      }
-    ],
-    "2026-10-05": [
-      {
-        "title": "No menu available",
-        "properties": []
-      }
-    ],
-    "2026-10-07": [
-      {
-        "title": "No menu available",
-        "properties": []
-      }
-    ],
-    "2026-10-04": [
-      {
-        "title": "No menu available",
-        "properties": []
-      }
-    ],
-    "2026-10-06": [
-      {
-        "title": "No menu available",
-        "properties": []
-      }
-    ]
+    "2026-10-08": [],
+    "2026-10-05": [],
+    "2026-10-07": [],
+    "2026-10-04": [],
+    "2026-10-06": []
   },
   "5": {},
   "7": {},
@@ -1700,50 +1675,16 @@
         ]
       },
       {
-        "title": "Lounas : Butter Chicken ja kasviksia",
+        "title": "Lounas : Chili con carne",
         "properties": [
           "A+",
-          "G",
-          "L"
-        ]
-      },
-      {
-        "title": "Lounas : Tummaa riisiä",
-        "properties": [
-          "G",
-          "L",
-          "M",
-          "VV"
-        ]
-      },
-      {
-        "title": "Chef´s Kitchen : Rapeaa kanaa - Crispy chicken",
-        "properties": [
           "G",
           "L",
           "M"
         ]
       },
       {
-        "title": "Chef´s Kitchen : Gochujang-majoneesia",
-        "properties": [
-          "A+",
-          "L",
-          "M",
-          "O+"
-        ]
-      },
-      {
-        "title": "Chef´s Kitchen : Rosmariinilla maustettua perunaa",
-        "properties": [
-          "G",
-          "L",
-          "M",
-          "VV"
-        ]
-      },
-      {
-        "title": "Chef´s Kitchen : Limeä",
+        "title": "Lounas : Tummaa riisiä",
         "properties": [
           "G",
           "L",
