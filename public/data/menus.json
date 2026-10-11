@@ -58,7 +58,7 @@
         "properties": []
       }
     ],
-    "2026-10-10": [],
+    "2026-10-11": [],
     "2026-10-15": [
       {
         "title": "Devilled chicken (A, Ei sisällä pähkinöitä, G, KM, M)",
@@ -106,43 +106,7 @@
   },
   "5": {},
   "7": {},
-  "12": {
-    "2026-10-10": [
-      {
-        "title": "Savutofu-piparjuurikiusausta",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": "Vegenapit & mangosalsa bowl",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": "Limonello luomutofukastike",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": "Patonkibaari",
-        "properties": []
-      },
-      {
-        "title": "Herkkulohipihvit, tartarkastike",
-        "properties": [
-          "G",
-          "L"
-        ]
-      },
-      {
-        "title": "Marjapiirakka-Smoothie",
-        "properties": []
-      }
-    ]
-  },
+  "12": {},
   "13": {
     "2026-10-16": [
       {
@@ -269,46 +233,6 @@
     ]
   },
   "16": {
-    "2026-10-10": [
-      {
-        "title": "Kasviskepukoita & raikasta maissisalsaa",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": "Marokkolainen linssipata, minttu-jogurttikastiketta",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": "Chili con Unlimited Jauhis",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": "Pyttipannua & Dijonmajoneesia",
-        "properties": [
-          "G",
-          "M"
-        ]
-      },
-      {
-        "title": "Kalapuikot ja sitruunakastike",
-        "properties": [
-          "L"
-        ]
-      },
-      {
-        "title": "Puolukka-kinuskirahka",
-        "properties": [
-          "G",
-          "L"
-        ]
-      }
-    ],
     "2026-10-13": [
       {
         "title": "TexMex-siemenpyöryköitä ja tomaattisalsaa",
@@ -1276,62 +1200,6 @@
     ]
   },
   "37": {
-    "2026-10-10": [
-      {
-        "title": "Possun poskea sinaappikastikkeessa",
-        "properties": [
-          "L",
-          "M"
-        ]
-      },
-      {
-        "title": "TexMex-siemenpyöryköitä ja Arrabiattakastiketta",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": "Vege-Rendang",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": "Vebabia & ranskalaisia",
-        "properties": []
-      },
-      {
-        "title": "Meksikolaista broileria ja maissisalsaa",
-        "properties": [
-          "G",
-          "L",
-          "M"
-        ]
-      },
-      {
-        "title": "Herkkulohipihvit ja punajuurimajoneesia",
-        "properties": [
-          "G",
-          "L"
-        ]
-      },
-      {
-        "title": "Teriyaki-hernetempe bibimbap-bowl",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": "Jalotofu-kookoskeitto",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": "Marjapiirakka-Smoothie",
-        "properties": []
-      }
-    ],
     "2026-10-14": [
       {
         "title": "Falafelpyöryköitä & Chimicurrikastiketta",
@@ -1517,29 +1385,12 @@
     ]
   },
   "38": {},
-  "39": {
-    "2026-10-10": [
-      {
-        "title": " Lime-persiljakalaa, tartarkastike ",
-        "properties": [
-          "L"
-        ]
-      }
-    ]
-  },
+  "39": {},
   "41": {},
   "42": {},
   "45": {},
   "47": {},
   "49": {
-    "2026-10-10": [
-      {
-        "title": "Paistettua kauraa",
-        "properties": [
-          "G"
-        ]
-      }
-    ],
     "2026-10-13": [
       {
         "title": "Smetanakirjolohta",
@@ -1840,26 +1691,24 @@
         "title": "Kasvislounas : VEG: Meksikolaista soijarouheriisi-vuokaa",
         "properties": [
           "A+",
-          "L",
-          "M",
+          "G",
           "O+",
           "VV"
         ]
       },
       {
-        "title": "Lounas : Jauhelihapihvejä ja metsäsienikastiketta",
+        "title": "Lounas : Jauhelihapihvejä ja metsäsienikastiketta 2 kpl.(possu,nauta,kana)",
         "properties": [
           "A+",
           "L"
         ]
       },
       {
-        "title": "Lounas : Paahdettua perunaa",
+        "title": "Lounas : Perunamuusia",
         "properties": [
+          "A+",
           "G",
-          "L",
-          "M",
-          "VV"
+          "L"
         ]
       },
       {
@@ -1901,121 +1750,9 @@
           "L"
         ]
       }
-    ],
-    "2026-10-10": [
-      {
-        "title": "Vegaaninen Kasvislounas : VEG Marokkolaisia kasvispihvejä 3 Kpl",
-        "properties": [
-          "G",
-          "L",
-          "M",
-          "VV"
-        ]
-      },
-      {
-        "title": "Vegaaninen Kasvislounas : VEG Chiligurttia",
-        "properties": [
-          "A+",
-          "G",
-          "VV"
-        ]
-      },
-      {
-        "title": "Vegaaninen Kasvislounas : VEG Paahdettua perunaa",
-        "properties": [
-          "G",
-          "L",
-          "M",
-          "VV"
-        ]
-      },
-      {
-        "title": "Lounas : Savupalvi-pekonipastaa",
-        "properties": [
-          "A+",
-          "L"
-        ]
-      },
-      {
-        "title": "Chef´s Kitchen : Hiillostettua lohta",
-        "properties": [
-          "A+",
-          "G",
-          "L",
-          "M"
-        ]
-      },
-      {
-        "title": "Chef´s Kitchen : Sitruunamajoneesia",
-        "properties": [
-          "A+",
-          "G",
-          "L"
-        ]
-      },
-      {
-        "title": "Chef´s Kitchen : Dijon-perunamuusia",
-        "properties": [
-          "A+",
-          "G",
-          "L"
-        ]
-      },
-      {
-        "title": "Pizzat: Kylmäsavukirjolohipizza, mozzarellaa & rucolaa",
-        "properties": [
-          "A+",
-          "LL"
-        ]
-      },
-      {
-        "title": "Pizzat: Feta-munakoiso pizza",
-        "properties": [
-          "A+",
-          "L"
-        ]
-      }
     ]
   },
-  "53": {
-    "2026-10-10": [
-      {
-        "title": "Tomaattista kebabkastiketta kasviksilla",
-        "properties": [
-          "G",
-          "L",
-          "M"
-        ]
-      },
-      {
-        "title": "Paahdettua perunaa",
-        "properties": [
-          "G",
-          "L",
-          "M",
-          "VV"
-        ]
-      },
-      {
-        "title": "Kikherneitä ja kasviksia kormakastikkeessa",
-        "properties": [
-          "A+",
-          "G",
-          "L",
-          "O+"
-        ]
-      },
-      {
-        "title": "Tummaa riisiä",
-        "properties": [
-          "G",
-          "L",
-          "M",
-          "VV"
-        ]
-      }
-    ]
-  },
+  "53": {},
   "54": {},
   "55": {},
   "59": {},
@@ -2143,17 +1880,7 @@
   "66": {},
   "67": {},
   "68": {},
-  "69": {
-    "2026-10-10": [
-      {
-        "title": "Paahdettua parsakaalia ja luomutofua, punajuuricremeä ja perunaa",
-        "properties": [
-          "G",
-          "M"
-        ]
-      }
-    ]
-  },
+  "69": {},
   "71": {
     "2026-10-15": [
       {
@@ -2565,29 +2292,6 @@
   "75": {},
   "80": {},
   "81": {
-    "2026-10-10": [
-      {
-        "title": "Kermainen gnocchi-vuoka",
-        "properties": []
-      },
-      {
-        "title": "Nyhtökaurastroganoffia & pikkelöityä puolukkaa",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": "PÄIVÄN ERIKOINEN : Sloppy Joe baoja, kurpitsa-kaalisalaatti ",
-        "properties": []
-      },
-      {
-        "title": "Butter fish",
-        "properties": [
-          "G",
-          "L"
-        ]
-      }
-    ],
     "2026-10-12": [
       {
         "title": "Mosambikilainen pähkinä-papupata",
@@ -2901,54 +2605,6 @@
   },
   "84": {},
   "85": {
-    "2026-10-10": [
-      {
-        "title": "Kasvis-kvinoapihvit",
-        "properties": [
-          "E",
-          "G",
-          "H",
-          "M",
-          "VV"
-        ]
-      },
-      {
-        "title": "Paahdettuja savupaprikaperunoita",
-        "properties": [
-          "E",
-          "G",
-          "H",
-          "M",
-          "VV"
-        ]
-      },
-      {
-        "title": "Paahdettuja kasviksia",
-        "properties": [
-          "E",
-          "G",
-          "H",
-          "M",
-          "VV"
-        ]
-      },
-      {
-        "title": "Broilerleike",
-        "properties": [
-          "E",
-          "G",
-          "H",
-          "M"
-        ]
-      },
-      {
-        "title": "Valkosipuli-kermaviilikastiketta",
-        "properties": [
-          "G",
-          "L"
-        ]
-      }
-    ],
     "2026-10-15": [
       {
         "title": "Seitan Madras",
@@ -3345,6 +3001,57 @@
         "title": "Kananpoika-pestokiusausta",
         "properties": [
           "G",
+          "L"
+        ]
+      }
+    ],
+    "2026-10-20": [
+      {
+        "title": "Seitan Madras",
+        "properties": [
+          "E",
+          "H",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Täysjyväriisiä",
+        "properties": [
+          "E",
+          "G",
+          "H",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Vihannessekoitus",
+        "properties": [
+          "E",
+          "G",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Paahdettuja perunoita",
+        "properties": [
+          "E",
+          "G",
+          "H",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Broileri-Aurajuusto-paprikakastiketta",
+        "properties": [
+          "E",
+          "G",
+          "H",
           "L"
         ]
       }
