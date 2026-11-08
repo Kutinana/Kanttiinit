@@ -2,6 +2,7 @@
   "1": {},
   "2": {},
   "3": {
+    "2026-11-08": [],
     "2026-11-09": [
       {
         "title": "Kalapihvejä, salsaa, kurkumariisiä (A, Ei sisällä pähkinöitä, L, Soijaton)",
@@ -46,7 +47,6 @@
         "properties": []
       }
     ],
-    "2026-11-07": [],
     "2026-11-12": [
       {
         "title": "Chili con carne (A, Ei sisällä pähkinöitä, G, KM, M, Soijaton)",
@@ -175,53 +175,6 @@
       {
         "title": "Suolakaramellimousse",
         "properties": []
-      }
-    ],
-    "2026-11-07": [
-      {
-        "title": "Chili-inkiväärimarinoitua härkäpapu -bowl",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": "Kasviskepukkoita & Appelsiini-remoulade",
-        "properties": []
-      },
-      {
-        "title": "Pyttipannu Peas of Heaven",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": "Chili con Härkis",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": "Patonkibaari",
-        "properties": []
-      },
-      {
-        "title": "Sitruunaisia kalapaloja & Appelsiini-remoulade",
-        "properties": [
-          "M"
-        ]
-      },
-      {
-        "title": "Vaalea riisi",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": "Kaura-mustikkaherkku",
-        "properties": [
-          "G",
-          "L"
-        ]
       }
     ],
     "2026-11-10": [
@@ -1501,18 +1454,6 @@
           "L"
         ]
       }
-    ],
-    "2026-11-07": [
-      {
-        "title": "Tofua maapähkinäkastikkeessa",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": " Tempuraturskapalat & remouladekastike",
-        "properties": []
-      }
     ]
   },
   "41": {},
@@ -1809,112 +1750,6 @@
     ]
   },
   "52": {
-    "2026-11-07": [
-      {
-        "title": "Vegaaninen Kasvislounas : VEG: Härkispataa teriyaki",
-        "properties": [
-          "A+",
-          "G",
-          "L",
-          "M",
-          "O+",
-          "VV"
-        ]
-      },
-      {
-        "title": "Vegaaninen Kasvislounas : VEG: Tummaa riisiä",
-        "properties": [
-          "G",
-          "L",
-          "M",
-          "VV"
-        ]
-      },
-      {
-        "title": "Lounas : Rapeat kalapalat 3 kpl",
-        "properties": [
-          "A+",
-          "G",
-          "L",
-          "M"
-        ]
-      },
-      {
-        "title": "Lounas : Tartarjogurttia\n",
-        "properties": [
-          "A+",
-          "G",
-          "L"
-        ]
-      },
-      {
-        "title": "Lounas : Perunamuusia",
-        "properties": [
-          "A+",
-          "G",
-          "L"
-        ]
-      },
-      {
-        "title": "Chef´s Kitchen : Rapeaa kanaa - Crispy chicken",
-        "properties": [
-          "G",
-          "L",
-          "M"
-        ]
-      },
-      {
-        "title": "Chef´s Kitchen : Gochujang-majoneesia",
-        "properties": [
-          "A+",
-          "L",
-          "M",
-          "O+"
-        ]
-      },
-      {
-        "title": "Chef´s Kitchen : Rosmariinilla maustettua perunaa",
-        "properties": [
-          "G",
-          "L",
-          "M",
-          "VV"
-        ]
-      },
-      {
-        "title": "Chef´s Kitchen : Limeä",
-        "properties": [
-          "G",
-          "L",
-          "M",
-          "VV"
-        ]
-      },
-      {
-        "title": "Chef´s Kitchen : Rapeita vegaanileikkeitä",
-        "properties": [
-          "A+",
-          "G",
-          "L",
-          "M",
-          "VV"
-        ]
-      },
-      {
-        "title": "Pizzat: Siitake-parmesanpizzaa, tryffeliöljyä ja rucolaa\n",
-        "properties": [
-          "A+",
-          "L"
-        ]
-      },
-      {
-        "title": "Pizzat: Kinkkupizzaa, ananasta & sinihomejuustoa",
-        "properties": [
-          "A+",
-          "L"
-        ]
-      }
-    ],
     "2026-11-08": [
       {
         "title": "Vegaaninen Kasvislounas : VEG: Makean hapanta tofu-kasviswokkia - Tofua Kung Pao",
@@ -1989,6 +1824,16 @@
         ]
       },
       {
+        "title": "Chef´s Kitchen : Rapeita vegaanileikkeitä",
+        "properties": [
+          "A+",
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
         "title": "Pizzat: Siitake-parmesanpizzaa, tryffeliöljyä ja rucolaa\n",
         "properties": [
           "A+",
@@ -2004,61 +1849,7 @@
       }
     ]
   },
-  "53": {
-    "2026-11-07": [
-      {
-        "title": "Lihapullia",
-        "properties": [
-          "A+",
-          "L",
-          "M"
-        ]
-      },
-      {
-        "title": "Pippurikastiketta",
-        "properties": [
-          "A+",
-          "G",
-          "L"
-        ]
-      },
-      {
-        "title": "Paahdettuja perunoita",
-        "properties": [
-          "G",
-          "L",
-          "M",
-          "VV"
-        ]
-      },
-      {
-        "title": "Punajuuri-chavrepihvejä",
-        "properties": [
-          "A+",
-          "L",
-          "M",
-          "VV"
-        ]
-      },
-      {
-        "title": "Ruohosipuli-kermaviilikastiketta",
-        "properties": [
-          "A+",
-          "G",
-          "L"
-        ]
-      },
-      {
-        "title": "Tummaa riisiä",
-        "properties": [
-          "G",
-          "L",
-          "M",
-          "VV"
-        ]
-      }
-    ]
-  },
+  "53": {},
   "54": {},
   "55": {},
   "59": {},
@@ -2442,45 +2233,6 @@
   "75": {},
   "80": {},
   "81": {
-    "2026-11-07": [
-      {
-        "title": "Luomutofuwokki",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": "Quornia pestokastikkeessa",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": "Seitä pestokastikkeessa",
-        "properties": [
-          "G",
-          "L"
-        ]
-      },
-      {
-        "title": "Keitetty peruna",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": "Gluteenitonta kauraa ",
-        "properties": [
-          "G"
-        ]
-      },
-      {
-        "title": "Puolukkamousse",
-        "properties": [
-          "G"
-        ]
-      }
-    ],
     "2026-11-09": [
       {
         "title": "Soijarouhelasagne",
@@ -2826,47 +2578,6 @@
   },
   "84": {},
   "85": {
-    "2026-11-07": [
-      {
-        "title": "Tofu-linssi-bataatticurry kamu",
-        "properties": [
-          "E",
-          "G",
-          "H",
-          "M",
-          "VV"
-        ]
-      },
-      {
-        "title": "Täysjyväriisiä",
-        "properties": [
-          "E",
-          "G",
-          "H",
-          "M",
-          "VV"
-        ]
-      },
-      {
-        "title": "Paahdettuja rakuunaporkkanoita",
-        "properties": [
-          "E",
-          "G",
-          "H",
-          "L",
-          "M",
-          "VV"
-        ]
-      },
-      {
-        "title": "Broiler-parmesanleikettä",
-        "properties": [
-          "E",
-          "G",
-          "L"
-        ]
-      }
-    ],
     "2026-11-09": [
       {
         "title": "Porkkanapihvit",
