@@ -2,7 +2,6 @@
   "1": {},
   "2": {},
   "3": {
-    "2026-11-14": [],
     "2026-11-18": [
       {
         "title": "Spagetti Bolognese",
@@ -91,6 +90,7 @@
         ]
       }
     ],
+    "2026-11-15": [],
     "2026-11-19": [
       {
         "title": "Pyttipannu & munakokkelia",
@@ -227,72 +227,6 @@
       },
       {
         "title": "Mustaherukkarahkaa",
-        "properties": [
-          "G",
-          "L"
-        ]
-      }
-    ],
-    "2026-11-14": [
-      {
-        "title": "Teriyaki nyhtökaura bowl",
-        "properties": [
-          "G",
-          "VV"
-        ]
-      },
-      {
-        "title": "Tofua tomaatti-rosmariinikastikkeessa",
-        "properties": [
-          "G",
-          "VV"
-        ]
-      },
-      {
-        "title": "Kasvisnugetteja ja makeantulista paprikamajoneesia",
-        "properties": [
-          "VV"
-        ]
-      },
-      {
-        "title": "Kasvisjauhispihvit, paprikamajoneesia",
-        "properties": [
-          "G",
-          "VV"
-        ]
-      },
-      {
-        "title": "Härkistä ja mustapapuja BBQ",
-        "properties": [
-          "G",
-          "VV"
-        ]
-      },
-      {
-        "title": "Patonkibaari",
-        "properties": []
-      },
-      {
-        "title": "Kanakepakoita ja arrabiattakastiketta",
-        "properties": [
-          "L"
-        ]
-      },
-      {
-        "title": "Rapeat kalapalat, makean tulista paprikamajoneesia",
-        "properties": [
-          "M"
-        ]
-      },
-      {
-        "title": "Vaalea riisi",
-        "properties": [
-          "G",
-          "VV"
-        ]
-      },
-      {
-        "title": "Marja-marenkijälkiruoka",
         "properties": [
           "G",
           "L"
@@ -2088,14 +2022,6 @@
   },
   "38": {},
   "39": {
-    "2026-11-14": [
-      {
-        "title": " Lime-persiljakalaa & tillikermaviili",
-        "properties": [
-          "L"
-        ]
-      }
-    ],
     "2026-11-15": [
       {
         "title": "Lihapullat & sinappimajoneesi",
@@ -2624,7 +2550,11 @@
         ]
       },
       {
-        "title": "Lounas : Jauhelihapihvejä ja metsäsienikastiketta",
+        "title": "Kasvislounas : Pyydä henkilökunnalta pähkinätön vaihtoehto",
+        "properties": []
+      },
+      {
+        "title": "Lounas : Jauhelihapihvejä 2 kpl  ja metsäsienikastiketta",
         "properties": [
           "A+",
           "L"
@@ -2640,80 +2570,8 @@
         ]
       },
       {
-        "title": "Chef´s Kitchen : Paistettu lohi",
-        "properties": [
-          "A+",
-          "G",
-          "L",
-          "M"
-        ]
-      },
-      {
-        "title": "Chef´s Kitchen : Sitruunamajoneesia",
-        "properties": [
-          "A+",
-          "G",
-          "L"
-        ]
-      },
-      {
-        "title": "Chef´s Kitchen : Dijon-perunamuusia",
-        "properties": [
-          "A+",
-          "G",
-          "L"
-        ]
-      },
-      {
-        "title": "Pizzat: Feta-munakoisopizza",
-        "properties": [
-          "A+",
-          "L"
-        ]
-      },
-      {
-        "title": "Pizzat: Kylmäsavukirjolohipizza, mozzarellaa & rucolaa",
-        "properties": [
-          "A+",
-          "LL"
-        ]
-      }
-    ],
-    "2026-11-14": [
-      {
-        "title": "Vegaaninen Kasvislounas : VEG: Marokkolaisia kasvispihvejä 3 kpl",
-        "properties": [
-          "G",
-          "L",
-          "M",
-          "VV"
-        ]
-      },
-      {
-        "title": "Vegaaninen Kasvislounas : VEG: Chiligurttia",
-        "properties": [
-          "A+",
-          "G",
-          "L",
-          "M",
-          "VV"
-        ]
-      },
-      {
-        "title": "Vegaaninen Kasvislounas : VEG: Paahdettua perunaa",
-        "properties": [
-          "G",
-          "L",
-          "M",
-          "VV"
-        ]
-      },
-      {
-        "title": "Lounas : Savupalvi-pekonipastaa",
-        "properties": [
-          "A+",
-          "L"
-        ]
+        "title": "Lounas : Pyydä henkilökunnalta gluteeniton vaihtoehto",
+        "properties": []
       },
       {
         "title": "Chef´s Kitchen : Paistettu lohi",
@@ -2765,69 +2623,7 @@
       }
     ]
   },
-  "53": {
-    "2026-11-14": [
-      {
-        "title": "Jauhelihapyöryköitä",
-        "properties": [
-          "A+",
-          "L",
-          "M"
-        ]
-      },
-      {
-        "title": "Lamminpään lumous -sinappikastiketta",
-        "properties": [
-          "A+",
-          "G",
-          "L"
-        ]
-      },
-      {
-        "title": "Perunamuusia",
-        "properties": [
-          "A+",
-          "G",
-          "L"
-        ]
-      },
-      {
-        "title": "Paahdettuja jeeraporkkanoita",
-        "properties": [
-          "G",
-          "L",
-          "M",
-          "VV"
-        ]
-      },
-      {
-        "title": "Punajuuri falafelpihvejä",
-        "properties": [
-          "G",
-          "L",
-          "M",
-          "VV"
-        ]
-      },
-      {
-        "title": "Inkivääri-korianterijogurttia",
-        "properties": [
-          "A+",
-          "G",
-          "L"
-        ]
-      },
-      {
-        "title": "Riisiä",
-        "properties": [
-          "G",
-          "L",
-          "M",
-          "VV"
-        ]
-      }
-    ]
-  },
+  "53": {},
   "54": {},
   "55": {},
   "59": {},
@@ -3469,28 +3265,6 @@
           "VV"
         ]
       }
-    ],
-    "2026-11-14": [
-      {
-        "title": "Nyhtökaura-lasagnette",
-        "properties": [
-          "VV"
-        ]
-      },
-      {
-        "title": "Savujuustosilakat",
-        "properties": [
-          "G",
-          "L"
-        ]
-      },
-      {
-        "title": "Kaura-omenapaistos",
-        "properties": [
-          "G",
-          "VV"
-        ]
-      }
     ]
   },
   "82": {},
@@ -3637,61 +3411,6 @@
   },
   "84": {},
   "85": {
-    "2026-11-14": [
-      {
-        "title": "Linssi-kasvispihvit",
-        "properties": [
-          "E",
-          "G",
-          "H"
-        ]
-      },
-      {
-        "title": "Valkosipuli-kaurajogurttikastiketta",
-        "properties": [
-          "E",
-          "G",
-          "H",
-          "M",
-          "VV"
-        ]
-      },
-      {
-        "title": "Keitettyjä perunoita",
-        "properties": [
-          "E",
-          "G",
-          "H",
-          "M",
-          "VV"
-        ]
-      },
-      {
-        "title": "Paahdettuja kauden kasviksia ja juureksia",
-        "properties": [
-          "E",
-          "G",
-          "H",
-          "M",
-          "VV"
-        ]
-      },
-      {
-        "title": "Paneroituja lohipihvejä",
-        "properties": [
-          "E"
-        ]
-      },
-      {
-        "title": "Sitruuna-kermaviilikastiketta",
-        "properties": [
-          "E",
-          "G",
-          "H",
-          "L"
-        ]
-      }
-    ],
     "2026-11-16": [
       {
         "title": "Seitan-kebabtortilla",
@@ -4006,6 +3725,63 @@
         "title": "Kananpoika-pestokiusausta",
         "properties": [
           "G",
+          "L"
+        ]
+      }
+    ],
+    "2026-11-24": [
+      {
+        "title": "Kasvis-jalapenonuggetteja",
+        "properties": [
+          "E",
+          "G",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Valkosipuli-kaurajogurttikastiketta",
+        "properties": [
+          "E",
+          "G",
+          "H",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Täysjyväriisiä",
+        "properties": [
+          "E",
+          "G",
+          "H",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Paahdettua ruusukaalia ja punasipulia",
+        "properties": [
+          "E",
+          "G",
+          "H",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Talon savulohilasagnettea",
+        "properties": [
+          "E",
+          "H",
+          "L"
+        ]
+      },
+      {
+        "title": "Kinkku-pastapaistosta",
+        "properties": [
+          "E",
+          "H",
           "L"
         ]
       }
