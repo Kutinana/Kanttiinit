@@ -2183,54 +2183,1859 @@
   "41": {},
   "42": {},
   "45": {},
-  "47": {},
-  "49": {
-    "2026-11-17": [
+  "47": {
+    "2026-11-19": [
       {
-        "title": "Punajuuripyöryköitä & raitakastiketta",
+        "title": "Aamupala: Kaurapuuro",
+        "properties": [
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Aamupala:  Aamiaisen marjasekoitus",
         "properties": [
           "G",
-          "VV"
+          "L",
+          "M"
         ]
       },
       {
-        "title": "Marry me -kasvispastavuoka",
+        "title": "Aamupala:  Paahdetut siemenet",
         "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Aamiaisen mansikkakeitto",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Aamiaisen raejuusto",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Aamupala:  Kylmäsavulohi-uunimunakas",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Aamupala:  Pekoni",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Aamiais lihapyörykät",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Kananmuna",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Aamiaisen riisipiirakka",
+        "properties": [
+          "L"
+        ]
+      },
+      {
+        "title": "Aamupala:  Talon Granola",
+        "properties": [
+          "G",
+          "L",
+          "M",
           "VV"
         ]
       },
       {
-        "title": "Tempurapaneroituja kalapaloja & Appelsiini-remoulade",
+        "title": "Aamupala:  Luonnonjogurtti",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Aamupala:  Tomaattiviipale",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Aamupala:  Kurkkuviipale",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Aamupala:  Jääsalaatti lehti pesty",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Punainen paprikasuikale",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Aamupala:  Maustekurkku",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Aamupala:  Oltermanni",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Aamupala:  Kalkkunaleike",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Meetwursti",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Margariini",
+        "properties": [
+          "G"
+        ]
+      },
+      {
+        "title": "Aamupala:  Tuorejuusto",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Aamupala:  Appelsiinitäysmehu",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Ananastäysmehu ",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Kahvi",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Kasvislounas: Massaman curry",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Lounas 1: Kinkkukiusaus",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Lounas 2: Broileripyöryköitä Välimerentapaan",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Jälkiruoka: Omena-kanelirahka",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Keittolounas: Hernekeitto",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Keittolounas:  Hakattu sipuli",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Salaattibuffet: Katkarapu",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Salaattijuustokuutio",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Sitruunalla ja rosmariinilla maustettua broileria",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Kananmuna",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Punajuuri-piparjuuritahna",
+        "properties": [
+          "G"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Salaattimix, oma",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Kurkkuviipale",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Kirsikkatomaatti ",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Marinoitu punasipuli",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Punainen paprikasuikale",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Hernesalaatti",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Peruna-retiisisalaatti",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Hunajapaahdettua porkkanaa",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Punakaalisalaatti",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      }
+    ],
+    "2026-11-20": [
+      {
+        "title": "Aamupala: Riisipuuro",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Aamupala:  Aamiaisen marjasekoitus",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Paahdetut siemenet",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Aamiaisen mustikkakeitto",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Aamiaisen raejuusto",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Aamupala:  Tomaatti-parmesaani uunimunakas",
+        "properties": [
+          "G"
+        ]
+      },
+      {
+        "title": "Aamupala:  Pekoni",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Aamiaisen prinssinakki",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Kananmuna",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Talon Granola",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Aamupala:  Aamiaisen päärynä-vaniljajogurtti",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Aamupala:  Tomaattiviipale",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Aamupala:  Kurkkuviipale",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Aamupala:  Jääsalaatti lehti pesty",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Punainen paprikasuikale",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Aamupala:  Maustekurkku",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Aamupala:  Edam",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Aamupala:  Meetwursti",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Palvikinkku",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Margariini",
+        "properties": [
+          "G"
+        ]
+      },
+      {
+        "title": "Aamupala:  Tuorejuusto",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Aamupala:  Appelsiinitäysmehu",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Omenatäysmehu",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Kahvi",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Kasvislounas: Punajuuri-vuohenjuustopastavuoka)",
         "properties": []
       },
       {
-        "title": "Meksikolainen uunimakkara",
+        "title": "Lounas 1: Kikherne-tikka masala",
         "properties": [
           "G",
-          "L"
-        ]
-      },
-      {
-        "title": "Perunasose ",
-        "properties": [
-          "G",
-          "L"
-        ]
-      },
-      {
-        "title": "Gluteenitonta kauraa ",
-        "properties": [
-          "G",
+          "L",
+          "M",
           "VV"
         ]
       },
       {
-        "title": "Suolakinuski-lakritsi-vanukas ",
+        "title": "Lounas 2: Zaatar maustettua lohta",
         "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Jälkiruoka: Karamellivanukas",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Keittolounas: Tofu-kookoskeitto",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Salaattibuffet: Härkis",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Leipäjuustokuutio",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Rakuunalla maustettua pulled porkia",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Kananmuna",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Salaattimix, oma",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Kurkkuviipale",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Kirsikkatomaatti ",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Marinoitu punasipuli",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Porkkanaraaste",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Värikäs coleslaw",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Marinoitu herkkusieni",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Lehtikaalisalaatti",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Sitrusmarinoitu persiljapasta",
+        "properties": [
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Hernehummus",
+        "properties": [
+          "G",
+          "L",
+          "M",
           "VV"
         ]
       }
     ],
+    "2026-11-16": [
+      {
+        "title": "Aamupala: Ruishiutalepuuro",
+        "properties": [
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Aamupala:  Aamiaisen marjasekoitus",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Paahdetut siemenet",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Aamiaisen mansikkakeitto",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Aamiaisen raejuusto",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Aamupala:  Kasvis-uunimunakas",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Aamupala:  Pekoni",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Aamiais lihapyörykät",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Kananmuna",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Talon Granola",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Aamupala:  Aamiaisen mango-persikkajogurtti",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Aamupala:  Tomaattiviipale",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Aamupala:  Kurkkuviipale",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Aamupala:  Jääsalaatti lehti pesty",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Punainen paprikasuikale",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Aamupala:  Maustekurkku",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Aamupala:  Oltermanni",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Aamupala:  Meetwursti",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Kalkkunaleike",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Margariini",
+        "properties": [
+          "G"
+        ]
+      },
+      {
+        "title": "Aamupala:  Tuorejuusto",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Aamupala:  Appelsiinitäysmehu",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Omenatäysmehu",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Kahvi",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Aamupala:  Grahamsämpylä",
+        "properties": [
+          "L"
+        ]
+      },
+      {
+        "title": "Aamupala:  Ruisruutu",
+        "properties": [
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Ruisruutu",
+        "properties": [
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Focaccialevy ",
+        "properties": [
+          "L"
+        ]
+      },
+      {
+        "title": "Aamupala:  Unikkosämpylä saranahalkaistu",
+        "properties": [
+          "L"
+        ]
+      },
+      {
+        "title": "Aamupala:  Menu kauraciabattasämpylä 70g kypsä pakaste",
+        "properties": [
+          "L"
+        ]
+      },
+      {
+        "title": "Aamupala:  Ruisnappi 30g Menu",
+        "properties": [
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Rouhesämpylä",
+        "properties": [
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  kaurasämpylä",
+        "properties": [
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Kasvislounas: Soijabolognese",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Kasvislounas:  Juustoraasteseos",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Lounas 1: Lohiseljanka",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Lounas 2: Rosmariinilla maustettua broilerinpaistia",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Jälkiruoka: Ohukaiset",
+        "properties": [
+          "L"
+        ]
+      },
+      {
+        "title": "Jälkiruoka:  Vadelmahilloke",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Keittolounas: Tomaattikeitto",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Salaattibuffet: Sitruunalla maustettua tofua",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Leipäjuustokuutio",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Yrttimarinoitu broileri",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Kananmuna",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Salaattimix, oma",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Kurkkukuutio",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Kirsikkatomaatti ",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Marinoitu punasipuli",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Porkkanaraaste",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Samettinen perunasalaatti",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Parsakaalia ja kurpitsansiementä",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Punajuuri-rucolasalaatti",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Kaali-punaherukkaraaste",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Hernehummus",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      }
+    ],
+    "2026-11-17": [
+      {
+        "title": "Aamupala: Mannapuuro",
+        "properties": [
+          "L"
+        ]
+      },
+      {
+        "title": "Aamupala:  Aamiaisen marjasekoitus",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Paahdetut siemenet",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Aamiaisen mustikkakeitto",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Aamiaisen raejuusto",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Aamupala:  Aamiaisen riisipiirakka",
+        "properties": [
+          "L"
+        ]
+      },
+      {
+        "title": "Aamupala:  Kreikkalainen uunimunakas",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Aamupala:  Pekoni",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Aamiaisen prinssinakki",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Kananmuna",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Talon Granola",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Aamupala:  Luonnonjogurtti",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Aamupala:  Tomaattiviipale",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Aamupala:  Kurkkuviipale",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Aamupala:  Jääsalaatti lehti pesty",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Punainen paprikasuikale",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Aamupala:  Maustekurkku",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Aamupala:  Edam",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Aamupala:  Meetwursti",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Palvikinkku",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Margariini",
+        "properties": [
+          "G"
+        ]
+      },
+      {
+        "title": "Aamupala:  Tuorejuusto",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Aamupala:  Appelsiinitäysmehu",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Mustikkatäysmehu",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Kahvi",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Kasvislounas: Kasvispyttipannu",
+        "properties": [
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Lounas 1: Kukkoa viinissä",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Lounas 2: Possunleike",
+        "properties": [
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Lounas 2:  Kolmen pippurin kastike",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Jälkiruoka: Puolukkavispipuuro",
+        "properties": [
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Keittolounas: Kanakeittoa green curry",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Salaattibuffet: Marinoitu luomutofu",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Vuohenjuustokuutio",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Yrtti-sinappi pulled turkey",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Kananmuna",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Salaattimix, oma",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Kurkkuviipale",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Kirsikkatomaatti ",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Marinoitu punasipuli",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Punainen paprikasuikale",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Kukkakaalia ja kikhernettä",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Marinoitu punakaali",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Salaatti paahdetusta porkkanasta ja palsternakasta",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Bulgur-jättipapusalaatti",
+        "properties": [
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Hernehummus",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      }
+    ],
+    "2026-11-18": [
+      {
+        "title": "Aamupala: Neljän viljan puuro",
+        "properties": [
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Aamupala:  Aamiaisen marjasekoitus",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Paahdetut siemenet",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Aamiaisen vadelmakeitto",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Aamiaisen raejuusto",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Aamupala:  Kinkku-juusto uunimunakas",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Aamupala:  Pekoni",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Aamiais nakit ja lihapyörykät",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Kananmuna",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Talon Granola",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Aamupala:  Aamiaisen Jogurtti-rahka",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Aamupala:  Tomaattiviipale",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Aamupala:  Kurkkuviipale",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Aamupala:  Jääsalaatti lehti pesty",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Punainen paprikasuikale",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Aamupala:  Maustekurkku",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Aamupala:  Emmental viipale",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Aamupala:  Maksamakkara",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Meetwursti",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Margariini",
+        "properties": [
+          "G"
+        ]
+      },
+      {
+        "title": "Aamupala:  Tuorejuusto",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Aamupala:  Karpalo-puolukkatäysmehu",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Omenatäysmehu",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Aamupala:  Kahvi",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Kasvislounas: Mausteinen Unlimitedpyörykkä-tomaattipata",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Lounas 1: Lohipastavuoka",
+        "properties": [
+          "L"
+        ]
+      },
+      {
+        "title": "Lounas 2: Porsasta Red Curry",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Jälkiruoka: Marjasalaatti kotimaisesta mustikasta ja mansikasta",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Jälkiruoka:  Vaniljavaahto",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Keittolounas: Bataatti-kookoskeitto",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Salaattibuffet: Yrttiset härkäpapusuikale",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Raejuusto",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Oman Uunin Savukirjolohi",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Kananmuna",
+        "properties": [
+          "G",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Salaattimix, oma",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Kurkkukuutio",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Kirsikkatomaatti ",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Marinoitu punasipuli",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Punainen paprikasuikale",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Kaalia caesar",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Pasta-papusalaatti",
+        "properties": [
+          "L",
+          "M"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Salaatti paahdetusta kesäkurpitsasta",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Marinoitu punajuuri timjami",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      },
+      {
+        "title": "Salaattibuffet:  Hernehummus",
+        "properties": [
+          "G",
+          "L",
+          "M",
+          "VV"
+        ]
+      }
+    ]
+  },
+  "49": {
     "2026-11-18": [
       {
         "title": "Kasvisnugetteja ja makeantulista paprikamajoneesia",
@@ -2277,6 +4082,52 @@
         "title": "Appelsiinikiisseli",
         "properties": [
           "G",
+          "VV"
+        ]
+      }
+    ],
+    "2026-11-17": [
+      {
+        "title": "Punajuuripyöryköitä & raitakastiketta",
+        "properties": [
+          "G",
+          "VV"
+        ]
+      },
+      {
+        "title": "Marry me -kasvispastavuoka",
+        "properties": [
+          "VV"
+        ]
+      },
+      {
+        "title": "Tempurapaneroituja kalapaloja & Appelsiini-remoulade",
+        "properties": []
+      },
+      {
+        "title": "Meksikolainen uunimakkara",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Perunasose ",
+        "properties": [
+          "G",
+          "L"
+        ]
+      },
+      {
+        "title": "Gluteenitonta kauraa ",
+        "properties": [
+          "G",
+          "VV"
+        ]
+      },
+      {
+        "title": "Suolakinuski-lakritsi-vanukas ",
+        "properties": [
           "VV"
         ]
       }
